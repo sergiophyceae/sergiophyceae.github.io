@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href="https://www.bio.purdue.edu/">Department of Biological Sciences</a>, <a href="https://www.purdue.edu/">Purdue University</a>, USA.
 
 profile:
-  align: center
+  align: right
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
