@@ -9,8 +9,9 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>LILY 1-218</p>
-    <p>915 W. State Street</p>
+    <p>Sergio Munoz-Gomez</p>
+    <p>Assistant Professor</p>
+    <p>915 W. State Street, LILY 1-218</p>
     <p>West Lafayette, IN 47907</p>
 
 news: true  # includes a list of news items
