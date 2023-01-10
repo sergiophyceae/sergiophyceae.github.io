@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href="https://www.bio.purdue.edu/">Department of Biological Sciences</a>, Purdue University, USA.
+subtitle: <a href="https://www.bio.purdue.edu/">Department of Biological Sciences</a>, <a href="https://www.purdue.edu/">Purdue University</a>, USA.
 
 profile:
   align: center
