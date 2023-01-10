@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='[https://www.bio.purdue.edu/]'>Department of Biological Sciences</a>. Purdue University.
 
 profile:
   align: center
