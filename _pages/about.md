@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: <a href="https://www.bio.purdue.edu/">Department of Biological Sciences</a>, Purdue University, USA.
 
