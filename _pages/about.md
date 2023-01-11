@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Sergio Munoz-Gomez</p>
-    <p>Assistant Professor</p>
+    <p>Principal Investigator</p>
     <p>915 W. State Street, LILY 1-218</p>
     <p>West Lafayette, IN 47907</p>
 
