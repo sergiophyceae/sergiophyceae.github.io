@@ -8,8 +8,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <p align="center">
-<img src="/assets/img/ecsolab_logo.png" width="400">
-</p>
+<img src="/assets/img/ecsolab_logo.png" width="300">
+</p>  
 
 The **Evolution of Cells, Symbionts, and Organelles** (ECSO) Lab in the [Department of Biological Sciences](https://www.bio.purdue.edu/) at [Purdue University](https://www.purdue.edu/) (IN, USA) opened its doors in January 2023. We will investigate the evolutionary and mechanistic causes of both ancient and more recent symbioses. Two of the immediate research interests of the lab are (1) the **origin of eukaryotes and their mitochondria**, and (2) the **origin and function of purple photosymbioses**.
 
