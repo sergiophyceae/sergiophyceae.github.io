@@ -11,7 +11,7 @@ horizontal: false
 
 ## Principal Investigator
 
-<img align="left" src="/assets/img/profile_pic.jpg" width="160"> Sergio is an evolutionary microbiologist and cell biologist whose main interested have revovled around understanding the origin of eukaryotic cells and symbiotic organelles.
+<img align="left" src="/assets/img/profile_pic.jpg" width="160"> Sergio is an evolutionary microbiologist and cell biologist whose main interested have revovled around understanding the origin of eukaryotic cells and symbiotic organelles.  
 
 ## Postdoctoral Researchers
 
