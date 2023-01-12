@@ -12,7 +12,7 @@ horizontal: false
 ## Principal Investigator
 
 <img align="left" src="/assets/img/profile_pic.jpg" width="160"> 
-Sergio A. Munoz-Gomez  
+**Sergio A. Munoz-Gomez**  
 Assistant Professor  
 EMBO Postdoctoral Fellow, Universite Paris-Saclay, France  
 Ph.D. in Biochemistry and Molecular Biology (2018), Dalhousie University, Canada  
