@@ -8,3 +8,13 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+## Principal Investigator
+
+<img align="left" src="pathto/myimage.png" alt="My Image">
+
+## Postdoctoral Researchers
+
+## Graduate Students
+
+## Undergraduate Students
