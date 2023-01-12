@@ -2,7 +2,6 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href="https://www.bio.purdue.edu/">Department of Biological Sciences</a>, <a href="https://www.purdue.edu/">Purdue University</a>, USA.
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
