@@ -4,16 +4,6 @@ title: Home
 permalink: /
 subtitle: <a href="https://www.bio.purdue.edu/">Department of Biological Sciences</a>, <a href="https://www.purdue.edu/">Purdue University</a>, USA.
 
-profile:
-  align: right
-  image: profile_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>Sergio Munoz-Gomez</p>
-    <p>Principal Investigator</p>
-    <p>915 W. State Street, LILY 1-218</p>
-    <p>West Lafayette, IN 47907</p>
-
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
