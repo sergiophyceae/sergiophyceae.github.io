@@ -26,7 +26,7 @@ The transition from prokaryotic to eukaryotic cells is often thought to be the g
 ## Purple photosymbioses
 
 <p align="center">
-<img src="/assets/img/purple_symbiosis.jpg" width="1000">
+<img src="/assets/img/purple_symbiosis.jpg" width="550">
 </p>
 
 Symbioses between heterotrophic and photosynthetic organisms (photosymbioses) are very common in nature (e.g., lichens or corals). Virtually all of these photosymbioses involve oxygenic photosynthesizers: organisms that release oxygen as waste while using sunlight to produce their own food. On the other hand, photosymbioses between eukaryotes and intracellular anoxygenic photosynthesizers such as purple bacteria are extremely rare. Purple bacteria use electron donors other than water, prefer much longer light waves as energy source, and photosynthesize in the absence of oxygen. Only two examples of eukaryotes that harbor intracellular purple bacteria have ever been reported. We have recently studied on one of them, the freshwater ciliate *Pseudoblepharisma tenue*, which also harbors intracellular green algae, making it the only eukaryote known to combine two contrasting photosynthetic endosymbionts (see [Muñoz-Gómez et al., (2021) *Sci. Adv.* 7:eabg4102](https://www.science.org/doi/10.1126/sciadv.abg4102)). We are interested in understanding the physiology, ecology, and evolution of purple symbioses, and ultimately want to explain why purple symbioses are so incredibly rare in nature. Some of the questions we will focus on in the near future are:
