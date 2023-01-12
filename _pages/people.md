@@ -21,7 +21,6 @@ B.Sc. Honors in Biology (2013), Universidad de Antioquia, Colombia
 Sergio is an evolutionary microbiologist and cell biologist whose main interests revolve around understanding the origin of eukaryotic cells and symbiotic organelles.  
   
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## Postdoctoral Researchers
 
