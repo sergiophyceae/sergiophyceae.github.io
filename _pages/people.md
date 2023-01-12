@@ -11,7 +11,7 @@ horizontal: false
 
 ## Principal Investigator
 
-<img align="left" style=”float: lwft; padding: 10px 10px 10px 10px;” src="/assets/img/profile_pic.jpg" width="160"> 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/profile_pic.jpg" width="160"> 
 **Sergio Muñoz-Gómez**  
 EMBO Postdoctoral Fellow, Universite Paris-Saclay, France  
 Ph.D. in Biochemistry and Molecular Biology (2018), Dalhousie University, Canada  
