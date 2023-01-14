@@ -13,7 +13,7 @@ horizontal: false
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/profile_pic.jpg" width="160"> 
 
-**Sergio Muñoz-Gómez**  
+**Dr. Sergio Muñoz-Gómez**  
 EMBO Postdoctoral Fellow (2021-2022), Université Paris-Saclay, France  
 Ph.D. in Biochemistry and Molecular Biology (2013-2018), Dalhousie University, Canada  
 B.Sc. Honors in Biology (2007-2013), Universidad de Antioquia, Colombia 
