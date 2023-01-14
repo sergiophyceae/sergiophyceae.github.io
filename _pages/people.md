@@ -29,6 +29,7 @@ Sergio is an evolutionary microbiologist and cell biologist whose main interests
 **You?**  
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Graduate Students
 
@@ -37,11 +38,13 @@ Sergio is an evolutionary microbiologist and cell biologist whose main interests
 **You?**  
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Undergraduate Students
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
 
 **You?**  
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
