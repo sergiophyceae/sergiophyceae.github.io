@@ -18,5 +18,8 @@ Sergio A. Muñoz-Gómez
   Purdue University  
     
   samunozg{at}purdue[dot]edu  
-  www.ecoslab.com  
+  [www.ecoslab.com](https//www.ecsolab.com)  
   Phone: +1 765 494 4408  
+  
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=diYXZcAKtfCOkQ8pRgDLsczURTqWE0zgx9fu-qnOdLk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+
