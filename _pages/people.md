@@ -30,4 +30,12 @@ Sergio is an evolutionary microbiologist and cell biologist whose main interests
 
 ## Graduate Students
 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
+
+**You?**  
+
 ## Undergraduate Students
+
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
+
+**You?**  
