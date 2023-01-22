@@ -8,6 +8,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 <img align="right" style="float: right; padding: 10px 10px 10px 10px;" src="/assets/img/purdue_university.jpg" width="350"> 
+
 Sergio A. Muñoz-Gómez  
   Assistant Professor  
   The Evolution of Cells, Symbionts, and Organelles Lab  
