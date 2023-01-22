@@ -7,8 +7,8 @@ nav_order: 5
 display_categories: [work, fun]
 horizontal: false
 ---
-
-Sergio A. Muñoz-Gómez  <img align="right" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/purdue_university.jpg" width="250"> 
+<img align="right" style="float: right; padding: 10px 10px 10px 10px;" src="/assets/img/purdue_university.jpg" width="350"> 
+Sergio A. Muñoz-Gómez  
   Assistant Professor  
   The Evolution of Cells, Symbionts, and Organelles Lab  
   Department of Biological Sciences  
