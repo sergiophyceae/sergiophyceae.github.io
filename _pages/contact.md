@@ -7,7 +7,9 @@ nav_order: 5
 display_categories: [work, fun]
 horizontal: false
 ---
+<!--
 <img align="right" style="float: right; padding: 2px 2px 2px 2px;" src="/assets/img/purdue_university.jpg" width="400"> 
+-->
 
 Sergio A. Muñoz-Gómez  
   Assistant Professor  
