@@ -7,7 +7,6 @@ nav_order: 5
 display_categories: [work, fun]
 horizontal: false
 ---
-<img align="right" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/purdue_university.jpg" width="100"> 
 
 Sergio A. Muñoz-Gómez  
   Assistant Professor  
@@ -16,7 +15,7 @@ Sergio A. Muñoz-Gómez
   Lilly Hall of Life Sciences  
   915 W. State Street, Laboratory G-203, Office G-234  
   West Lafayette, IN 47907-2054  
-  Purdue University  
+  Purdue University  <img align="right" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/purdue_university.jpg" width="100"> 
     
   samunozg{at}purdue[dot]edu  
   [www.ecoslab.com](https//www.ecsolab.com)  
