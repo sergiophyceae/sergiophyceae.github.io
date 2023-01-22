@@ -8,14 +8,14 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-Sergio A. Muñoz-Gómez  
+Sergio A. Muñoz-Gómez  <img align="right" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/purdue_university.jpg" width="250"> 
   Assistant Professor  
   The Evolution of Cells, Symbionts, and Organelles Lab  
   Department of Biological Sciences  
   Lilly Hall of Life Sciences  
   915 W. State Street, Laboratory G-203, Office G-234  
   West Lafayette, IN 47907-2054  
-  Purdue University  <img align="right" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/purdue_university.jpg" width="100"> 
+  Purdue University  
     
   samunozg{at}purdue[dot]edu  
   [www.ecoslab.com](https//www.ecsolab.com)  
