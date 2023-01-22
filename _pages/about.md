@@ -22,6 +22,6 @@ Some of the questions we will be tackling are:
 - What are the mechanistic bases of purple photosymbioses? 
 - How have purple photosymbioses evolved?
   
-See our research [here](https://sergiophyceae.github.io/research/) to learn more.
+See our research [here](https://ecsolab.com/research/) to learn more.
 
-I'm currently **no longer** looking for postdoctoral researchers to join our team. However, if you are a motivated student interested in symbiosis and cell evolution, please do get in touch to discuss possibilities. If you are a student that belongs to an underrepresented or minority group, consider applying to the [Graduate Diversity Visitation Program (GDVP)](https://www.purdue.edu/gradschool/diversity/programs/graduate-diversity-visitation-program/) for a chance to visit Purdue and our lab with all expenses covered for four days. Contact me at samunozg{at}purdue[dot]edu
+I'm currently **not** looking for postdoctoral researchers to join our team. However, if you are a motivated student interested in symbiosis and cell evolution, please do get in touch to discuss possibilities. If you are a student that belongs to an underrepresented or minority group, consider applying to the [Graduate Diversity Visitation Program (GDVP)](https://www.purdue.edu/gradschool/diversity/programs/graduate-diversity-visitation-program/) for a chance to visit Purdue and our lab with all expenses covered for four days. You can reach me at samunozg{at}purdue[dot]edu
