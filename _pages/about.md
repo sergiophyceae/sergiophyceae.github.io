@@ -8,7 +8,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 <p align="center">
-<img src="/assets/img/ecsolab_logo4.png" width="320">
+<img src="/assets/img/ecsolab_logo5.png" width="340">
 </p>
 <br>
 
