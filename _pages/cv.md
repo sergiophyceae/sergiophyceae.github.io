@@ -1,10 +1,11 @@
 ---
-layout: archive
-title: "CV"
+layout: page
+title: CV
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+nav: false
+nav_order: 5
+display_categories: [work, fun]
+horizontal: false
 ---
 
 {% include base_path %}
