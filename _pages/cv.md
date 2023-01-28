@@ -8,8 +8,6 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-{% include base_path %}
-
 ## Current Position
 
 * Origins-of-Life Assistant Professor (Jan. 2023 - Present)
