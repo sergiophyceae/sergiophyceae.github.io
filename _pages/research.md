@@ -8,10 +8,10 @@ nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
-<--
+<!--
 ## Overview
-One of the central themes that drive our research is captured in the question 'How does complexity increase in cell evolution?' As such, we are interested in...
---!>
+One of the central themes that drive our research is captured in the question **'How does complexity increase in cell evolution?'** As such, we are interested in...
+-->
 
 ## The origin of eukaryotes and their mitochondria
 
