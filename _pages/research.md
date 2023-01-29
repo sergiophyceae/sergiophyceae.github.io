@@ -8,10 +8,9 @@ nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
-<!--
+
 ## Overview
-One of the central themes that drive our research is captured in the question **'How does cellular complexity increase?'** As such, we are interested in major transitions in cell evolution such as the origin of the eukaryotic cell, the origin of symbiotic organelles such as mitochondria and chloroplasts, and intracellular symbiosis.
--->
+One of the central questions that drive our research is **'How does cellular complexity increase?'** As such, we are interested in major transitions in cell evolution such as the origin of the eukaryotic cell, the origin of symbiotic organelles, and the early stages in the evolution of intracellular symbionts.
 
 ## The origin of eukaryotes and their mitochondria
 
