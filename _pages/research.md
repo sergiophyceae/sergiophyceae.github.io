@@ -2,15 +2,12 @@
 layout: page
 title: Research
 permalink: /research/
-description: Our main research lines. See Publications for some other research interests.
+description: One of the central questions that drive our research is **'How does cellular complexity increase?'** As such, we are interested in major transitions in cell evolution such as the origin of the eukaryotic cell, the origin of symbiotic organelles, and the early stages in the evolution of intracellular symbionts.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
-
-## Overview
-One of the central questions that drive our research is **'How does cellular complexity increase?'** As such, we are interested in major transitions in cell evolution such as the origin of the eukaryotic cell, the origin of symbiotic organelles, and the early stages in the evolution of intracellular symbionts.
 
 ## The origin of eukaryotes and their mitochondria
 
