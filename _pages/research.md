@@ -39,13 +39,13 @@ Symbioses between heterotrophic and photosynthetic organisms (photosymbioses) ar
 
 ## Experimental evolution of symbioses
 
-Under construction.
+Coming soon.
 
 **Methods:** Long-term cultivation of microbial consortia; genome sequencing and analysis; genetic engineering; microcosms.
 
 ## Evolutionary cell physiology
 
-Under construction.
+Coming soon.
 
 **Methods:** Mathematical modelling; stable cultivation of microorganisms; measurement of physiological parameters, fluorescence confocal microscopy.
 
