@@ -8,6 +8,7 @@ nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
+One of the central questions that drive our research is '**How does cellular complexity increase?**' The origin of the eukaryotic cell represents the most drastic structural re-organization and increase in complexity in cell evolution. The origin of symbiotic organelles such as mitochondria and chloroplasts, and the acquisition of intraellular symbionts, also represent significant increases of genetic, metabolic, and cellular complexity.
 
 ## The origin of eukaryotes and their mitochondria
 
