@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: One of the central questions that drive our research is 'How does cellular complexity increase?' As such, we are interested in major transitions in cell evolution such as the origin of the eukaryotic cell, the origin of symbiotic organelles, and the early stages in the evolution of intracellular symbionts. The origin of the eukaryotic cell represents the most drastic structural re-organization and increase in complexity in cell evolution. The origin of symbiotic organelles such as mitochondria and chloroplasts, and the acquisition of intraellular symbionts, also represent significant increases of genetic, metabolic, and cellular complexity.
+description: One of the central questions that drive our research is 'How does cellular complexity increase?' The origin of the eukaryotic cell represents the most drastic structural re-organization and increase in complexity in cell evolution. The origin of symbiotic organelles such as mitochondria and chloroplasts, and the acquisition of intraellular symbionts, also represent significant increases of genetic, metabolic, and cellular complexity.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
