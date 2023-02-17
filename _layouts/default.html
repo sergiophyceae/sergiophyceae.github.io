@@ -7,7 +7,9 @@
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
   {% include head.html %}
-  {% include google_analytics.html %}
+    {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google_analytics.html %}
+    {% endif %}
   </head>
 
   <!-- Body -->
