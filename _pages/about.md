@@ -12,7 +12,7 @@ social: false  # includes social icons at the bottom of the page
 </p>
 <!-- <br> -->
 
-The **Evolution of Cells, Symbionts, and Organelles** Lab in the [Department of Biological Sciences](https://www.bio.purdue.edu/) at [Purdue University](https://www.purdue.edu/) (IN, USA) opened its doors in January 2023. We will investigate the evolutionary and mechanistic causes of both ancient and more recent symbioses. Two of the immediate research interests of the lab are (1) the **origin of eukaryotes and their mitochondria**, and (2) the **origin and function of purple photosymbioses**.
+Welcome to the **Evolution of Cells, Symbionts, and Organelles** Lab website! We are part of the [Department of Biological Sciences](https://www.bio.purdue.edu/) at [Purdue University](https://www.purdue.edu/) (IN, USA). We are intereted in **how cellular complexity increases**. Our research thus focuses on **major transitions in cell evolution**. Two of the immediate research interests of the lab are (1) the **origin of eukaryotes and their mitochondria**, and (2) the **origin and function of purple photosymbioses**.
 
 Some of the questions we will be tackling are:
 
@@ -23,5 +23,7 @@ Some of the questions we will be tackling are:
 - How have purple photosymbioses evolved?
   
 See our research [here](https://ecsolab.com/research/) to learn more.
+
+## Opportunities
 
 I'm currently **not** looking for postdoctoral researchers to join our team. However, if you are a motivated student interested in symbiosis and cell evolution, please do get in touch to discuss possibilities. If you are a student that belongs to an underrepresented or minority group, consider applying to the [Graduate Diversity Visitation Program (GDVP)](https://www.purdue.edu/gradschool/diversity/programs/graduate-diversity-visitation-program/) for a chance to visit Purdue and our lab with all expenses covered for four days. You can reach me at samunozg{at}purdue[dot]edu
