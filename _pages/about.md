@@ -12,7 +12,7 @@ social: false  # includes social icons at the bottom of the page
 </p>
 <!-- <br> -->
 
-Welcome to the **Evolution of Cells, Symbionts, and Organelles** Lab website! We are part of the [Department of Biological Sciences](https://www.bio.purdue.edu/) at [Purdue University](https://www.purdue.edu/) (IN, USA). One of the central questions that drive our research is ‘**How does cellular complexity increase?**’ Our research thus focuses on **major transitions in cell evolution**. Two of the immediate interests of the lab are (1) the **origin of eukaryotes and their mitochondria**, and (2) the **origin and function of purple photosymbioses**.
+Welcome to the **Evolution of Cells, Symbionts, and Organelles** Lab website! We are located in the [Department of Biological Sciences](https://www.bio.purdue.edu/) at [Purdue University](https://www.purdue.edu/) (IN, USA). One of the central questions that drive our research is ‘**How does cellular complexity increase?**’ Our research thus focuses on **major transitions in cell evolution**. Two of the immediate interests of the lab are (1) the **origin of eukaryotes and their mitochondria**, and (2) the **origin and function of purple photosymbioses**.
 
 Some of the questions we will be tackling are:
 
