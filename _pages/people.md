@@ -24,7 +24,7 @@ Sergio is an evolutionary microbiologist and cell biologist whose main interests
 
 ## Postdoctoral Researchers
 
-<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/shahed_pic.jpg" width="160"> 
 
 **Dr. Shahed U. A. Shazib**  
 Postdoctoral Scholar (2022-2023), The Ohio State University, USA.  
