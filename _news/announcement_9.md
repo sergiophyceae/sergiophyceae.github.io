@@ -1,0 +1,1 @@
+Dr. Muñoz-Gómez was featured in a piece in Live Science that discusses a recent study by Geiger et al. in Science Advances. Read [here](https://www.livescience.com/health/relatives-of-the-1st-mitochondria-may-be-living-in-geothermal-hot-springs-today).
