@@ -41,6 +41,14 @@ Shahed is an evolutionary cell biologist. His research aims to explicate the evo
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
 
+**Dr. Dongseok Kim**  
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
+
 **You?**  
 <p>&nbsp;</p>
 <p>&nbsp;</p>
