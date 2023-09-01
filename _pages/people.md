@@ -44,8 +44,8 @@ Shahed is an evolutionary cell biologist. His research aims to explicate the evo
 **Dr. Dongseok Kim**  
 kim4472{at}purdue[dot]edu
 
-M.Sc & Ph.D in Biological Sciences (2017-2023), University of Sungkyunkwan, South Korea.
-B.Sc. in Biological Sciences and Computer Engineering (2010-2017), University of Sungkyunkwan, South Korea.
+M.Sc & Ph.D in Biological Sciences (2017-2023), University of Sungkyunkwan, South Korea.  
+B.Sc. in Biological Sciences and Computer Engineering (2010-2017), University of Sungkyunkwan, South Korea.  
 
 Dongseok is an evolutionary biologist with a primary focus on unraveling the evolutionary questions of eukaryotic cells. His research encompasses a wide range of techniques, including genomics and various wet laboratory experiments, all aimed at addressing fundamental questions related to the origin of life and the evolution of complex cellular structures. See Dr. Kim’s CV [here](https://ecsolab.com/assets/pdf/cv_dongseokkim_2023-09-01.pdf).
 
