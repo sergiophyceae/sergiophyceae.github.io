@@ -39,7 +39,7 @@ B.Sc & M.Sc in Microbiology (2006-2010), University of Chittagong, Bangladesh.
 
 Shahed is an evolutionary cell biologist. His research aims to explicate the evolution of eukaryotes, and microbial interactions through single-cell omics and phylogenetic reconstruction. At the ECSO lab, Shahed will work on the origin and evolution of eukaryotes and their organelles. See Dr. Shazib's personal website [here](https://sites.google.com/site/shaheduddinahmedshazib). 
 
-<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/dongseok_kim.jpg.png" width="160"> 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/dongseok_kim.jpg" width="160"> 
 
 **Dr. Dongseok Kim**  
 kim4472{at}purdue[dot]edu  
