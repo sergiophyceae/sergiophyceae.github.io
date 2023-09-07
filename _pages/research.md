@@ -54,11 +54,9 @@ Coming soon.
 
 ## Our collaborators
 
-- [Sebastian Hess](https://zoologie.uni-koeln.de/en/research-groups/hess-group) (University of Cologne)
 - [Purificación López-García](http://www.deemteam.fr/en/) (Université Paris-Saclay) 
 - [David Moreira](http://www.deemteam.fr/en/) (Université Paris-Saclay) 
 - [Julius Lukeš](https://www.paru.cas.cz/en/staff/profile/1/) (Czech Academy of Sciences)
 - [Hassan Hashimi](https://www.paru.cas.cz/en/staff/profile/3/) (Czech Academy of Sciences)
 - [Paul Schavemaker](https://pubmed.ncbi.nlm.nih.gov/?term=paul+e+schavemaker) (Arizona State University)
-- Martin Kreutz (Private laboratory)
-- Thilo Bauer (Private laboratory)
+- [Sebastian Hess](https://zoologie.uni-koeln.de/en/research-groups/hess-group) (University of Cologne)
