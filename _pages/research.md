@@ -38,17 +38,21 @@ Symbioses between heterotrophic and photosynthetic organisms (photosymbioses) ar
 
 **Methods:** Field sampling; cultivation and enrichment; physicochemical analyses; genome and transcriptome sequencing (long-read Nanopore and short-read Illumina); NanoSIMS; light, fluorescent, and electron microscopy, comparative genomics, phylogenetics.
 
+## Evolutionary cell physiology
+
+The history of cells on Earth has been marked by both major and minor evolutionary transitions that encompass increases in cellular complexity, structural re-organizations, and symbiotic mergers. A plethora of hypotheses based on phylogenetics and comparative genomics have been proposed to explain some of these transitions, i.e., eukaryogenesis. However, these ancient and transformative evolutionary events remain poorly constrained. We hope to unravel general physiological and biophysical principles that constrain the evolution of cells, and explain the evolutionary possibilities available to certain cell body plans. Some of our previous work has addressed the scaling of respiratory membrane area across prokaryotic and eukaryotic cells (see [Schavemaker & Muñoz-Gómez (2022) <i>Nat. Ecol. Evol.</i> 6:1307–1317](https://www.nature.com/articles/s41559-022-01833-9)), and the physiological and ecological consequences of an energy-inefficient fermentative metabolism in anaerobic eukaryotes (see [Muñoz-Gómez (2022) <i>Nat. Microbiol.</i> 8:197-203](https://www.nature.com/articles/s41564-022-01299-2)). Some of the questions we want to systematically investigate are:
+
+  -	What is the evolutionary relationship between energy and cellular complexity?
+  -	What are the physiological and ecological possibilities of the prokaryotic and eukaryotic cell body plans?
+  -	How do physiological constraints define ecological niches and dictate the ecological strategies of symbioses?
+
+**Methods:** Mathematical modelling; stable cultivation of microorganisms; measurement of physiological parameters, fluorescence confocal microscopy.
+
 ## Experimental evolution of symbioses
 
 Coming soon.
 
 **Methods:** Long-term cultivation of microbial consortia; genome sequencing and analysis; genetic engineering; microcosms.
-
-## Evolutionary cell physiology
-
-Coming soon.
-
-**Methods:** Mathematical modelling; stable cultivation of microorganisms; measurement of physiological parameters, fluorescence confocal microscopy.
 
 ---
 
