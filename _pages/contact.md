@@ -16,7 +16,7 @@ Sergio A. Muñoz-Gómez
   The Evolution of Cells, Symbionts, and Organelles Lab  
   Department of Biological Sciences  
   Lilly Hall of Life Sciences  
-  915 Mitch Daniels Boulevard, Laboratory G-203, Office G-234  
+  915 Mitch Daniels Boulevard LILY G-203 (Lab), LILY G-234 (Office)  
   West Lafayette, IN 47907-2054  
   Purdue University  
     
