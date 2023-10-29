@@ -72,6 +72,7 @@ Dongseok is an evolutionary biologist with a primary focus on unraveling the evo
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
 
 **Betsy Varghese**  
+bvarghe{at}purdue[dot]edu
 
 Purdue University (2023 - Present)  
 Ivy Tech Community College (2021 - 2022)  
