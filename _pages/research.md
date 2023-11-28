@@ -67,5 +67,5 @@ Coming soon.
 - [Julius Lukeš](https://www.paru.cas.cz/en/staff/profile/1/) (Czech Academy of Sciences)
 - [Hassan Hashimi](https://www.paru.cas.cz/en/staff/profile/3/) (Czech Academy of Sciences)
 - [Paul Schavemaker](https://pubmed.ncbi.nlm.nih.gov/?term=paul+e+schavemaker) (Arizona State University)
-- [Jeremy Wideman](https://evocellbio.com/). (Arizona State University)
+- [Jeremy Wideman](https://evocellbio.com/) (Arizona State University)
 - [Sebastian Hess](https://zoologie.uni-koeln.de/en/research-groups/hess-group) (University of Cologne)
