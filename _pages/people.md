@@ -59,6 +59,16 @@ Dongseok is an evolutionary biologist with a primary focus on unraveling the evo
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+## Research Assistants
+
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
+
+**Penelope Vu, MSc**  
+
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
+
+**Konrad Schwartz**  
+
 ## Undergraduate Students
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/Betsy_2.jpg" width="160"> 
