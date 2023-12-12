@@ -70,6 +70,8 @@ MSc in Botany and Plant Pathology (2019-2022), Purdue University, USA.
 BSc in Crop Sciences with Honors (2014-2019), Vietnam National University of Agriculture, Vietnam.  
 YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, USA.  
 
+<p>&nbsp;</p>
+
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
 
 **Konrad Schwartz**  
