@@ -61,6 +61,7 @@ BSc in Crop Sciences with Honors (2014-2019), Vietnam National University of Agr
 YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, USA.  
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
 
@@ -99,6 +100,7 @@ Ivy Tech Community College (2021 - 2022)
 **Oakley Harrison**  
 oaharris{at}purdue[dot]edu  
 
+Purdue University (2021 - Present)  
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
