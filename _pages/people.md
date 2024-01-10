@@ -63,11 +63,12 @@ YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160"> 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/konrad_3.jpeg" width="160"> 
 
 **Konrad Schwartz**  
 schwarkc{at}purdue[dot]edu
-<p>&nbsp;</p>
+
+B.Sc. in Biochemistry and Molecular Biology (2019-2023), Centre College, USA.  
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
