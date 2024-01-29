@@ -63,7 +63,7 @@ YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/konrad_pic_new.jpeg" width="160"> 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/konrad_pic_new.jpg" width="160"> 
 
 **Konrad Schwartz**  
 schwarkc{at}purdue[dot]edu
