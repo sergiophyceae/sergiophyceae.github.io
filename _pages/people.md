@@ -63,6 +63,7 @@ BSc in Crop Sciences with Honors (2014-2019), Vietnam National University of Agr
 YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, USA.  
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/konrad_pic_new.jpg" width="160">  
 
