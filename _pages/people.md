@@ -70,6 +70,7 @@ schwarkc{at}purdue[dot]edu
 B.Sc. in Biochemistry and Molecular Biology (2019-2023), Centre College, USA.  
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Graduate Students
 
