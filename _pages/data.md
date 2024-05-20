@@ -20,7 +20,7 @@ A.J. (2019). "An updated phylogeny of the Alphaproteobacteria reveals that the p
 and Holosporales have independent origins." <i>eLife</i>. e42535.
   - [Mendeley Data](http://dx.doi.org/10.17632/75m68dxd83.2)
 - **Muñoz-Gómez, S.A.**, Durnin, K., Eme, L., Paight, C., Lane, C.E., Saffo, M.B., Slamovits, C.H. (2019). "Nephromyces represents a diverse and novel lineage of the Apicomplexa that has retained apicoplasts." <i>Genome Biology and Evolution</i>. 11(10):2727-2740
-  - [Mendeley Data](10.17632/2xgz7vm5f3.2)
+  - [Mendeley Data](http://dx.doi.org/10.17632/2xgz7vm5f3.2)
 - **Muñoz-Gómez, S.A.**, and Slamovits, C. H. (2018). "Plastid Genomes in the Myzozoa." <i>Advances
 in Botanical Research</i>. 85:55-94.
   - [Mendeley Data](http://dx.doi.org/10.17632/frxt79djmr.2)
