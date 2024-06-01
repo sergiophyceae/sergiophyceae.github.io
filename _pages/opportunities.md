@@ -9,3 +9,5 @@
   - Sigma Xi Grants in Aid of Research (GIAR): https://www.sigmaxi.org/programs/grants-in-aid-of-research/
 
 ## Purdue grants/fellowships
+  - Lyndsey Fellowship
+  - Waser EEB Assistantships
