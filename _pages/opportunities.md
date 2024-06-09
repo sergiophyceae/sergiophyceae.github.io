@@ -1,4 +1,4 @@
-# Funding
+# Funding Opportunities
 
 ## Postdoctoral Fellowships
   - Simons Postdoctoral Fellowships in Marine Microbial Ecology: https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/
