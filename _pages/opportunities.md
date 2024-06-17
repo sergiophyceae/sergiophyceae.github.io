@@ -14,3 +14,4 @@
   - Lyndsey Fellowship
   - Waser EEB Assistantships
   - Systems Fellows Program: https://www.purdue.edu/collaboratory/programs/fellows/learn-more/index.html
+  - Graduate Bridge Program: https://www.purdue.edu/gradschool/diversity/programs/bridge/
