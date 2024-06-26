@@ -16,3 +16,4 @@
   - Systems Fellows Program: https://www.purdue.edu/collaboratory/programs/fellows/learn-more/index.html
   - Graduate Bridge Program: https://www.purdue.edu/gradschool/diversity/programs/bridge/
   - Purdue Postdoc Travel Award: https://www.purdue.edu/gradschool/postdoctoral-studies/resources/career-development.php
+  - Purdue University Libraries Open Access Publishing Fund: https://www.lib.purdue.edu/openaccess/fund
