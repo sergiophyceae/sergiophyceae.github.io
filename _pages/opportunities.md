@@ -1,4 +1,5 @@
 # Funding Opportunities
+Whether you are an undergraduate student, graduate student, or postdoctoral researcher, there are many opporunities to fund your research, training, and carreer. Take advantage of them! I am happy to work with you on putting together applications for these funding opportunities.
 
 ## Postdoctoral Fellowships
   - Simons Postdoctoral Fellowships in Marine Microbial Ecology: https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/
