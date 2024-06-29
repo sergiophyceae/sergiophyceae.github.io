@@ -9,7 +9,10 @@ Whether you are an undergraduate student, graduate student, or postdoctoral rese
   - Pew Latin American Fellows: https://www.pewtrusts.org/en/projects/pew-latin-american-fellows
   - EMBO Postdoctoral Fellowship (If you are from an EMBC Member State): https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/
   - (Global) Marie Skłodowska-Curie Actions Postdoctoral Fellowship: https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships
-    
+
+## Graduate Student Fellowships
+  - NSF Graduate Research Fellowship Program (GRFP): https://www.nsfgrfp.org/
+
 ## Small grants
   - Sigma Xi Grants in Aid of Research (GIAR): https://www.sigmaxi.org/programs/grants-in-aid-of-research/
 
