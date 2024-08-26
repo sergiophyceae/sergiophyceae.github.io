@@ -4,6 +4,7 @@ Whether you are an undergraduate student, graduate student, or postdoctoral rese
 ## Postdoctoral Fellowships
   - Simons Postdoctoral Fellowships in Marine Microbial Ecology: https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/
   - HFSP Long-Term Fellowships: https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships/
+  - Life Sciences Research Foundation Postdoctoral Award: https://lsrf.org/apply/award-details/
   - HHMI Hanna H. Gray Fellows Program: https://www.hhmi.org/programs/hanna-h-gray-fellows
   - NASA Postdoctoral Program: https://npp.orau.org/index.html
     - Exobiology - Evolution of Advanced Life: https://www.zintellect.com/Opportunity/Details/0002-NPP-NOV24-ABProg-Astrobio?contractdesignation=2
