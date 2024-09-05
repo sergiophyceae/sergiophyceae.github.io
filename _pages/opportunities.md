@@ -39,8 +39,9 @@ Whether you are an undergraduate student, graduate student, or postdoctoral rese
   - [Sigma Xi Grants in Aid of Research (GIAR)](https://www.sigmaxi.org/programs/grants-in-aid-of-research/)
 
 ## Purdue grants/fellowships
-  - Lyndsey Fellowship
-  - Waser EEB Assistantships
+  - Lyndsey Fellowship (EEB-BIO)
+  - Waser EEB Assistantships (EEB-BIO)
+  - Center for Plant Biology Travel Award (CPB)
   - [Systems Fellows Program](https://www.purdue.edu/collaboratory/programs/fellows/learn-more/index.html)
   - [Graduate Bridge Program](https://www.purdue.edu/gradschool/diversity/programs/bridge/)
   - [Purdue Postdoc Travel Award](https://www.purdue.edu/gradschool/postdoctoral-studies/resources/career-development.php)
