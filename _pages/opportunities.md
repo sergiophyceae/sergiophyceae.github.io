@@ -9,6 +9,15 @@ horizontal: false
 ---
 Whether you are an undergraduate student, graduate student, or postdoctoral researcher, there are many opporunities to fund your research, training, and career. Take advantage of them! I am happy to work with you on putting together applications for these funding opportunities.
 
+## Open Positions
+
+1. **Postdoctoral Researcher**. Project: "**The energetic costs of new genes and cellular complexity.**"
+    The ideal postdoctoral researcher should have experience and/or interest in measuring quantitative proteomes through **mass spectrometry** and **ribosome profiling** or **ribo-seq**. These methods will be applied to experimentally evolved populations as well as phylogenetically disparate unicells.
+3. **PhD Student**. Project: "**The energetic costs of new genes and cellular complexity.**"
+4. **PhD Student**. Project: "**The physiology and metabolism of common and rare photosymbiotic associations.**"
+
+To apply, please send a CV and 1-2-page cover letter to samunozg{at}purdue[dot]edu
+
 ## Postdoctoral Fellowships
   - [Simons Postdoctoral Fellowships in Marine Microbial Ecology](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/)
   - [HFSP Long-Term Fellowships](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships/)
