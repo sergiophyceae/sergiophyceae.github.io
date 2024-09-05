@@ -1,16 +1,13 @@
 ---
 layout: page
-title: Opportunities
+title: Funding opportunities and open positions
 permalink: /opportunities/
-description: Funding opportunities and open positions.
+description: Whether you are an undergraduate student, graduate student, or postdoctoral researcher, there are many opporunities to fund your research, training, and career. Take advantage of them! I am happy to work with you on putting together applications for these funding opportunities.
 nav: true
 nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
-
-# Funding Opportunities
-Whether you are an undergraduate student, graduate student, or postdoctoral researcher, there are many opporunities to fund your research, training, and career. Take advantage of them! I am happy to work with you on putting together applications for these funding opportunities.
 
 ## Postdoctoral Fellowships
   - Simons Postdoctoral Fellowships in Marine Microbial Ecology: https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/
