@@ -17,7 +17,7 @@ horizontal: false
 
 ## Postdoctoral Experience
 
-* EMBO Postdoctoral Fellow (Feb. 2021 - Present)
+* EMBO Postdoctoral Fellow (Feb. 2021 - Dec. 2022)
   * Advisor: Dr. Puricación López-García
   * Unité d'Ecologie, Systématique et Evolution
   * Université Paris-Saclay, France
