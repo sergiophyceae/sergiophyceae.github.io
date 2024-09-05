@@ -7,8 +7,6 @@ nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
-Whether you are an undergraduate student, graduate student, or postdoctoral researcher, there are many opporunities to fund your research, training, and career. Take advantage of them! I am happy to work with you on putting together applications for these funding opportunities.
-
 ## Open Positions
 
 1. **Postdoctoral Researcher**. Project: "**The energetic costs of new genes and cellular complexity.**"
@@ -17,6 +15,10 @@ Whether you are an undergraduate student, graduate student, or postdoctoral rese
 4. **PhD Student**. Project: "**The physiology and metabolism of common and rare photosymbiotic associations.**"
 
 To apply, please send a **CV** and **1-2-page cover letter** to samunozg{at}purdue[dot]edu
+
+--
+
+Whether you are an undergraduate student, graduate student, or postdoctoral researcher, there are many opporunities to fund your research, training, and career. Take advantage of them! I am happy to work with you on putting together applications for these funding opportunities.
 
 ## Postdoctoral Fellowships
   - [Simons Postdoctoral Fellowships in Marine Microbial Ecology](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/)
