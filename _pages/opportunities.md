@@ -4,7 +4,7 @@ title: Opportunities
 permalink: /opportunities/
 description: Funding opportunities and open positions.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
