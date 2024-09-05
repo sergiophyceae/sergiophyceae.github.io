@@ -16,7 +16,7 @@ horizontal: false
 
 To apply, please send a **CV** and **1-2-page cover letter** to samunozg{at}purdue[dot]edu
 
----
+<hr style="border: 1px solid #000;">
 
 Whether you are an undergraduate student, graduate student, or postdoctoral researcher, there are many opporunities to fund your research, training, and career. Take advantage of them! I am happy to work with you on putting together applications for these funding opportunities.
 
