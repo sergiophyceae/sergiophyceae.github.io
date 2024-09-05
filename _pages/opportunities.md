@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 ## Postdoctoral Fellowships
-  - Simons Postdoctoral Fellowships in Marine Microbial Ecology: https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/
+  - [Simons Postdoctoral Fellowships in Marine Microbial Ecology](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/)
   - HFSP Long-Term Fellowships: https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships/
   - Life Sciences Research Foundation Postdoctoral Award: https://lsrf.org/apply/award-details/
   - HHMI Hanna H. Gray Fellows Program: https://www.hhmi.org/programs/hanna-h-gray-fellows
