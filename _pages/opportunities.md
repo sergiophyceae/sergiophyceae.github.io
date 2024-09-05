@@ -16,7 +16,7 @@ Whether you are an undergraduate student, graduate student, or postdoctoral rese
 3. **PhD Student**. Project: "**The energetic costs of new genes and cellular complexity.**"
 4. **PhD Student**. Project: "**The physiology and metabolism of common and rare photosymbiotic associations.**"
 
-To apply, please send a CV and 1-2-page cover letter to samunozg{at}purdue[dot]edu
+To apply, please send a **CV** and **1-2-page cover letter** to samunozg{at}purdue[dot]edu
 
 ## Postdoctoral Fellowships
   - [Simons Postdoctoral Fellowships in Marine Microbial Ecology](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/)
