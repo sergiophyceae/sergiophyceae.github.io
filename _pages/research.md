@@ -70,7 +70,7 @@ Coming soon.
 - [Jeremy Wideman](https://evocellbio.com/) (Arizona State University)
 - [Sebastian Hess](https://zoologie.uni-koeln.de/en/research-groups/hess-group) (University of Cologne)
 
---
+---
 
 ## Funding
 <div style="display: flex; align-items: center;">
