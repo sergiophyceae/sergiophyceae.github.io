@@ -27,3 +27,7 @@ See our research [here](https://ecsolab.com/research/) to learn more.
 ## Opportunities
 
 I am always looking for highly motivated **students** to join the ECSO Lab! If you are passionate about symbiosis and cell evolution, please do get in touch to discuss possibilities. If you are a student that belongs to an underrepresented or minority group, consider applying to the [Graduate Diversity Visitation Program (GDVP)](https://www.purdue.edu/gradschool/diversity/programs/graduate-diversity-visitation-program/) for a chance to visit Purdue and our lab with all expenses covered for four days. You can reach me at samunozg{at}purdue[dot]edu
+
+## Funding
+<img src="/assets/img/JTF.png" width="340">
+<img src="/assets/img/NASA.png" width="340">
