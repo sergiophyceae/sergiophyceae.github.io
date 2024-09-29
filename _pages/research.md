@@ -69,3 +69,11 @@ Coming soon.
 - [Paul Schavemaker](https://pubmed.ncbi.nlm.nih.gov/?term=paul+e+schavemaker) (Arizona State University)
 - [Jeremy Wideman](https://evocellbio.com/) (Arizona State University)
 - [Sebastian Hess](https://zoologie.uni-koeln.de/en/research-groups/hess-group) (University of Cologne)
+
+--
+
+## Funding
+<div style="display: flex; align-items: center;">
+    <img src="/assets/img/JTF.png" height="100" alt="JTF Logo" style="margin-right: 50px;">
+    <img src="/assets/img/NASA.png" height="100" alt="NASA Logo">
+</div>
