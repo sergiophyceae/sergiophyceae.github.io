@@ -30,6 +30,6 @@ I am always looking for highly motivated **students** to join the ECSO Lab! If y
 
 ## Funding
 <div style="display: flex; align-items: center;">
-    <img src="/assets/img/JTF.png" height="100" alt="JTF Logo" style="margin-right: 1000px;">
+    <img src="/assets/img/JTF.png" height="100" alt="JTF Logo" style="margin-right: 10000px;">
     <img src="/assets/img/NASA.png" height="100" alt="NASA Logo">
 </div>
