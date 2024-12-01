@@ -9,10 +9,8 @@ horizontal: false
 ---
 ## Open Positions
 
-1. **Postdoctoral Researcher** (2-year). Project: "**The energetic costs of new genes and cellular complexity.**"
-    The ideal postdoctoral researcher should have experience and/or interest in measuring quantitative proteomes through **mass spectrometry** and **ribosome profiling** or **ribo-seq**. These methods will be applied to experimentally evolved populations as well as phylogenetically disparate unicells.
-3. **PhD Student**. Project: "**The energetic costs of new genes and cellular complexity.**"
-4. **PhD Student**. Project: "**The physiology and metabolism of common and rare photosymbiotic associations.**"
+1. **PhD Student**. Project: "**The energetic costs of new genes and cellular complexity.**"
+2. **PhD Student**. Project: "**The physiology and metabolism of common and rare photosymbiotic associations.**"
 
 To apply, please send a **CV** and **1-2-page cover letter** to samunozg{at}purdue[dot]edu
 
