@@ -37,6 +37,7 @@ Whether you are an undergraduate student, graduate student, or postdoctoral rese
   - [Sigma Xi Grants in Aid of Research (GIAR)](https://www.sigmaxi.org/programs/grants-in-aid-of-research/)
 
 ## Purdue grants/fellowships
+  - UG Summer Research Fellowships for Purdue Biology Majors
   - Lyndsey Fellowship (EEB-BIO)
   - Waser EEB Assistantships (EEB-BIO)
   - Center for Plant Biology Travel Award (CPB)
