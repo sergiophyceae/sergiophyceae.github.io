@@ -19,6 +19,12 @@ Sergio A. Muñoz-Gómez
   915 Mitch Daniels Boulevard LILY G-203 (Lab), LILY G-234 (Office)  
   West Lafayette, IN 47907-2054  
   Purdue University  
+
+Shipping address:
+  915 Mitch Daniels Blvd LILY G-203
+  Purdue University
+  West Lafayette, IN 47907
+  765 494 6384
     
   samunozg{at}purdue[dot]edu  
   [www.ecoslab.com](https//www.ecsolab.com)  
