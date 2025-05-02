@@ -4,13 +4,14 @@ title: Home
 permalink: /
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
+
 <p align="center">
 <img src="/assets/img/ecsolab_logo4.png" width="340">
 </p>
@@ -20,12 +21,12 @@ Welcome to the **Evolution of Cells, Symbionts, and Organelles** Lab website! We
 
 Some of the questions we are tackling include::
 
-- What was the nature of the mitochondrial ancestor? 
-- What was the genetic contribution of the mitochondrial ancestor to eukaryotes? 
-- How did mitochondria affect the physiology and evolution of eukaryotes? 
-- What are the mechanistic bases of purple photosymbioses? 
+- What was the nature of the mitochondrial ancestor?
+- What was the genetic contribution of the mitochondrial ancestor to eukaryotes?
+- How did mitochondria affect the physiology and evolution of eukaryotes?
+- What are the mechanistic bases of purple photosymbioses?
 - How have purple photosymbioses evolved?
-  
+
 See our research [here](https://ecsolab.com/research/) to learn more.
 
 ## Opportunities
