@@ -95,7 +95,6 @@ jobs:
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
-          npm install -g mermaid.cli
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
