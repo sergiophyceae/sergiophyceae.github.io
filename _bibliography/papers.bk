@@ -1,0 +1,338 @@
+---
+---
+@article{munoz-gomez_etal_2022,
+  abbr={BioRxiv},
+  bibtex_show={false},
+  title={The development of intracytoplasmic membranes in alphaproteobacteria involves the conserved homolog of the mitochondrial crista-developing protein Mic60},
+  author={Muñoz-Gómez, S.A. and Cadena, L.R. and Gardiner, A.T. and Leger, M.M. and Sheikh, S. and Connell, L. and Bilý, T. and Kopejtka, K. and Beatty, J.T. and Kopejtka, K. and Beatty, J.T. and Koblížek, M. and Roger, A.J. and Slamovits, C.H. and Lukeš, J. and Hashimi, H.},
+  journal={BioRxiv},
+  volume={6},
+  number={},
+  pages={},
+  year={2022},
+  publisher={},
+  doi={10.1101/2022.06.14.496148},
+  html={https://doi.org/10.1101/2022.06.14.496148}
+}
+
+@article{richter_et al_2022,
+  abbr={PCI},
+  bibtex_show={false},
+  title={EukProt: a database of genome-scale predicted proteins across the diversity of eukaryotes},
+  author={Richter, D.J. and Berney, C. and Strassert, J.F.H. and Poh, Y-P. and Herman, E.K. and Muñoz-Gómez, S.A. and Wideman, J.G. and Burki, F. and de Vargas, C.},
+  journal={Peer Community Journal},
+  volume={2},
+  number={},
+  pages={e56},
+  year={2022},
+  publisher={},
+  doi={10.24072/pcjournal.173},
+  html={https://peercommunityjournal.org/articles/10.24072/pcjournal.173/},
+  selected={false}
+}
+
+@article{munoz-gomez_schavemaker_2022,
+  abbr={Nat. Ecol. Evol.},
+  bibtex_show={false},
+  title={The role of mitochondrial energetics in the origin and diversification of eukaryotes},
+  author={Schavemaker, P.E. and Muñoz-Gómez, S.A.},
+  journal={Nature Ecology and Evolution},
+  volume={6},
+  number={},
+  pages={1307--1317},
+  year={2022},
+  publisher={},
+  doi={10.1038/s41559-022-01833-9},
+  html={https://doi.org/10.1038/s41559-022-01833-9},
+  selected={true}
+}
+
+@article{munoz-gomez_etal_2022,
+  abbr={Nat. Ecol. Evol.},
+  bibtex_show={false},
+  title={Site-and-branch-heterogeneous analyses of an expanded dataset favors mitochondria as sister to known Alphaproteobacteria},
+  author={Muñoz-Gómez, S.A. and Susko, E. and Williamson, K. and Eme, L. and Slamovits, C.H. and Moreira, D. and López-García, P. and Roger, A.J.},
+  journal={Nature Ecology and Evolution},
+  volume={6},
+  number={},
+  pages={253--262},
+  year={2022},
+  publisher={},
+  doi={10.1038/s41559-021-01638-2},
+  html={https://doi.org/10.1038/s41559-021-01638-2},
+  selected={true}
+}
+
+@article{munoz-gomez_etal_2021b,
+  abbr={Sci. Adv.},
+  bibtex_show={false},
+  title={A microbial eukaryote with a unique combination of purple bacteria and green algae as endosymbionts},
+  author={Muñoz-Gómez, S.A. and Kreutz, M. and Hess, S.},
+  journal={Science Advances},
+  volume={7},
+  number={},
+  pages={eabg4102},
+  year={2021},
+  publisher={},
+  doi={10.1126/sciadv.abg4102},
+  html={https://www.science.org/doi/abs/10.1126/sciadv.abg4102},
+  selected={true}
+}
+
+@article{munoz-gomez_etal_2021a,
+  abbr={J. Mol. Evol.},
+  bibtex_show={false},
+  title={Constructive Neutral Evolution 20 years later},
+  author={Muñoz-Gómez, S.A. and Bilolikar, G. and Geiler-Samerotte, K. and Wideman, J.G.},
+  journal={Journal of Molecular Evolution},
+  volume={89},
+  number={},
+  pages={172--182},
+  year={2021},
+  publisher={},
+  doi={10.1007/s00239-021-09996-y},
+  html={https://doi.org/10.1007/s00239-021-09996-y}
+}
+
+@article{munoz-gomez_etal_2020,
+  abbr={F1000Res},
+  bibtex_show={false},
+  title={Independent accretion of TIM22 complex subunits in the animal and fungal lineages},
+  author={Muñoz-Gómez, S.A. and Snyder, S.N. and Montoya, S.J. and Wideman, J.G.},
+  journal={F1000Research},
+  volume={9},
+  number={},
+  pages={1060},
+  year={2020},
+  publisher={},
+  doi={10.12688/f1000research.25904.1},
+  html={https://doi.org/10.12688/f1000research.25904.1}
+}
+
+@article{von-kanel_etal_2020,
+  abbr={eLife},
+  bibtex_show={false},
+  title={Homologue replacement in the import motor of the mitochondrial inner membrane of trypanosomes},
+  author={von Känel, C. and Muñoz-Gómez, S.A. and Oeljeklaus, S. and Wideman, J.G. and Harsman, A. and Schneider, A.},
+  journal={eLife},
+  volume={9},
+  number={},
+  pages={e52560},
+  year={2020},
+  publisher={},
+  doi={10.7554/eLife.52560},
+  html={https://doi.org/10.7554/eLife.52560}
+}
+
+@article{wideman_etal_2019,
+  abbr={Curr. Opin. Genet. Dev.},
+  bibtex_show={false},
+  title={Neutral evolution of cellular phenotypes},
+  author={Wideman, J.G. and Novick, A. and Muñoz-Gómez, S.A. and Doolittle, W.F.},
+  journal={Current Opinion in Genetics & Development},
+  volume={59},
+  number={},
+  pages={87--94},
+  year={2019},
+  publisher={},
+  doi={10.1016/j.gde.2019.09.004},
+  html={https://doi.org/10.1016/j.gde.2019.09.004}
+}
+
+@article{munoz-gomez_etal_2019,
+  abbr={Genome Biol. Evol.},
+  bibtex_show={false},
+  title={Nephromyces represents a diverse and novel lineage of the Apicomplexa that has retained apicoplasts},
+  author={Muñoz-Gómez, S.A. and Durnin, K. and Eme, L. and Paight, C. and Lane, C.E. and Saffo, M.B. and and Slamovits, C.H.},
+  journal={Genome Biology and Evolution},
+  volume={11},
+  number={10},
+  pages={2727--2740},
+  year={2019},
+  publisher={},
+  doi={10.1093/gbe/evz155},
+  html={https://doi.org/10.1093/gbe/evz155}
+}
+
+@article{munoz-gomez_etal_2019,
+  abbr={eLife},
+  bibtex_show={false},
+  title={An updated phylogeny of the Alphaproteobacteria reveals that the parasitic Rickettsiales and Holosporales have independent origins},
+  author={Muñoz-Gómez, S.A. and Hess, S. and Burger, G. and Lang, B. F. and Susko, E. and Slamovits, C.H., and Roger, A.J.},
+  journal={eLife},
+  volume={8},
+  number={},
+  pages={e42535},
+  year={2019},
+  publisher={},
+  doi={10.7554/eLife.42535},
+  html={https://doi.org/10.7554/eLife.42535}
+}
+
+@article{wideman_munoz-gomez_etal_2018,
+  abbr={Curr. Biol.},
+  bibtex_show={false},
+  title={Functional Conservation, Structural Divergence, and Surprising Convergence in the MICOS Complex of Trypanosomes},
+  author={Wideman, J.G., and Muñoz-Gómez, S.A.},
+  journal={Current Biology},
+  volume={28},
+  number={21},
+  pages={R1245--R1248},
+  year={2018},
+  publisher={},
+  doi={10.1016/j.cub.2018.09.057},
+  html={https://doi.org/10.1016/j.cub.2018.09.057}
+}
+
+@article{stairs_etal_2018,
+  abbr={eLife},
+  bibtex_show={false},
+  title={Microbial eukaryotes have adapted to hypoxia by horizontal acquisitions of a gene involved in rhodoquinone biosynthesis},
+  author={Stairs, C. and Eme, L. and Muñoz-Gómez, S.A. and Cohen, A. and Dellaire, G. and Shepherd, J. and Fawcett, J. and Roger, A.J.},
+  journal={eLife},
+  volume={7},
+  number={},
+  pages={e34292},
+  year={2018},
+  publisher={},
+  doi={10.7554/eLife.34292},
+  html={https://doi.org/10.7554/eLife.34292}
+}
+
+@incollection{munoz-gomez_slamovits_2018,
+  bibtex_show={false},
+  title = {Plastid Genomes in the Myzozoa},
+  author={Muñoz-Gómez, S.A. and and Slamovits, C. H.},
+  booktitle={Plastid Genome Evolution},
+  editor={Shu-Miaw Chaw and Robert K. Jansen},
+  series={Advances in Botanical Research},
+  publisher={Academic Press},
+  address={Oxford},
+  volume={85},
+  year={2018},
+  pages={55-94},
+  chapter={3},
+  doi={https://doi.org/10.1016/bs.abr.2017.11.015},
+  html={https://www.sciencedirect.com/science/article/pii/S0065229617300873}
+}
+
+@article{roger_etal_2017,
+  abbr={Curr. Biol.},
+  bibtex_show={false},
+  title={The Origin and Diversification of Mitochondria},
+  author={Roger, A.J. and Muñoz-Gómez, S.A. and Kamikawa, R.},
+  journal={Current Biology},
+  volume={27},
+  number={21},
+  pages={R1177--R1192},
+  year={2017},
+  publisher={},
+  doi={https://doi.org/10.1016/j.cub.2017.09.015},
+  html={https://www.sciencedirect.com/science/article/pii/S096098221731179X}
+}
+
+@article{munoz-gomez_etal_2017,
+  abbr={Curr. Biol.},
+  bibtex_show={false},
+  title={The new red algal subphylum Proteorhodophytina comprises the largest and most divergent plastid genomes known},
+  author={Muñoz-Gómez, S.A. and Mejía-Franco, F. G. and Durnin, K. and Colp, M. and Grisdale, C. J. and Archibald, J.M. and Slamovits, C. H.},
+  journal={Current Biology},
+  volume={27},
+  number={11},
+  pages={1677--1684},
+  year={2017},
+  publisher={},
+  doi={https://doi.org/10.1016/j.cub.2017.04.054},
+  html={https://www.sciencedirect.com/science/article/pii/S0960982217304992}
+}
+
+@article{munoz-gomez_etal_2016,
+  abbr={Mol. Biol. Evol.},
+  bibtex_show={false},
+  title={The origin of mitochondrial cristae from alphaproteobacteria},
+  author={Muñoz-Gómez, S.A. and Wideman J.G. and Roger, A.J. and Slamovits, C.H.},
+  journal={Molecular Biology and Evolution},
+  volume={34},
+  number={4},
+  pages={943--956},
+  year={2016},
+  publisher={},
+  doi={https://doi.org/10.1093/molbev/msw298},
+  html={https://academic.oup.com/mbe/article/34/4/943/2897209}
+}
+
+@article{wideman_munoz-gomez_etal_2016,
+  abbr={Biochim. Biophys. Acta Mol. Cell Biol. L.},
+  bibtex_show={false},
+  title={The evolution of ERMIONE in mitochondrial biogenesis and lipid homeostasis: An evolutionary view from comparative cell biology},
+  author={Wideman, J.G., and Muñoz-Gómez, S.A.},
+  journal={Biochimica et Biophysica Acta (BBA) Molecular and Cell Biology of Lipids},
+  volume={1861},
+  number={8},
+  pages={900--912},
+  year={2016},
+  publisher={},
+  doi={https://doi.org/10.1016/j.bbalip.2016.01.015},
+  html={https://www.sciencedirect.com/science/article/abs/pii/S1388198116300142}
+}
+
+@article{munoz-gomez_etal_2015b,
+  abbr={Commun. Integr. Biol.},
+  bibtex_show={false},
+  title={The evolution of MICOS: ancestral and derived functions},
+  author={Muñoz-Gómez, S.A. and Slamovits, C.H. and Dacks, J.B. and Wideman, J.G.},
+  journal={Communicative & Integrative Biology},
+  volume={8},
+  number={6},
+  pages={e1094593},
+  year={2015},
+  publisher={},
+  doi={https://doi.org/10.1080/19420889.2015.1094593},
+  html={https://www.tandfonline.com/doi/full/10.1080/19420889.2015.1094593}
+}
+
+@article{munoz-gomez_etal_2015a,
+  abbr={Curr. Biol.},
+  bibtex_show={false},
+  title={Ancient homology of the Mitochondrial Contact Site and Cristae Organizing System (MICOS) points to the endosymbiotic origin of mitochondrial cristae},
+  author={Muñoz-Gómez, S.A. and Slamovits, C.H. and Dacks, J.B. and Baier, K.A. and Spencer, K.D. and Wideman, J.G.},
+  journal={Current Biology},
+  volume={25},
+  number={11},
+  pages={1489--1495},
+  year={2015},
+  publisher={},
+  doi={https://doi.org/10.1016/j.cub.2015.04.006},
+  html={https://www.sciencedirect.com/science/article/pii/S0960982215004194}
+}
+
+
+@article{malagon_etal_2014,
+  abbr={Proc. Natl. Acad. Sci. U.S.A.},
+  bibtex_show={false},
+  title={Evolution of Drosophila sex comb length illustrates the inextricable interplay between selection and variation},
+  author={Malagón, J.N. and Ahuja, A. and Sivapatham G. and Hung, J. and Lee, J. and Muñoz-Gómez, S.A. and Atallah, J. and Singh, R., and Larsen, E.},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={111},
+  number={39},
+  pages={E4103--4109},
+  year={2014},
+  publisher={},
+  doi={https://doi.org/10.1073/pnas.1322342111},
+  html={https://www.pnas.org/doi/10.1073/pnas.1322342111}
+}
+
+@article{sunagar_etal_2013,
+  abbr={Toxins},
+  bibtex_show={false},
+  title={Evolution stings: The origin and diversification of scorpion toxin peptide scaffolds},
+  author={Sunagar, K. and Undheim, E.A.B. and Chan, A.H.C. and Koludarov, I. and Muñoz-Gómez, S.A. and Antunes, A. and Fry, B.G.},
+  journal={Toxins},
+  volume={5},
+  number={12},
+  pages={2456--2487},
+  year={2013},
+  publisher={},
+  doi={https://doi.org/10.3390/toxins5122456},
+  html={https://www.mdpi.com/2072-6651/5/12/2456}
+}

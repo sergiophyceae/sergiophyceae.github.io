@@ -1,0 +1,67 @@
+---
+layout: default
+---
+
+<!-- about.html -->
+<div class="post">
+  <article>
+    {% if page.profile -%}
+    <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+      {%- if page.profile.image %}
+        {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+
+        {% if page.profile.image_circular %}
+          {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
+        {% else %}
+          {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+        {% endif %}
+
+        {% include figure.html 
+        path=profile_image_path 
+        class=profile_image_class
+        alt=page.profile.image -%}
+      {% endif -%}
+      {%- if page.profile.address %}
+      <div class="address">
+        {{ page.profile.address }}
+      </div>
+      {%- endif %}
+    </div>
+    {%- endif %}
+
+    <div class="clearfix">
+      {{ content }}
+    </div>
+
+    <!-- News -->
+    {% if page.news -%}
+      <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+      {%- include news.html %}
+    {% endif %}
+
+    <!-- Selected papers -->
+    {% if page.selected_papers -%}
+      <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected publications</a></h2>
+      {%- include selected_papers.html %}
+    {% endif %}
+
+    <!-- Logo Section (Funding Partners) after Selected Papers -->
+    <h2>Our Funding Partners</h2>
+    <div style="display: flex; align-items: center; margin-bottom: 30px;">
+      <img src="/assets/img/JTF.png" height="100" alt="JTF Logo" style="margin-right: 30px;">
+      <img src="/assets/img/NASA.png" height="100" alt="NASA Logo">
+    </div>
+
+    <!-- Social -->
+    {%- if page.social %}
+      <div class="social">
+        <div class="contact-icons">
+          {% include social.html %}
+        </div>
+        <div class="contact-note">
+          {{ site.contact_note }}
+        </div>
+      </div>
+    {%- endif %}
+  </article>
+</div>

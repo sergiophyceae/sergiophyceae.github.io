@@ -1,34 +1,28 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+social: false  # includes social icons at the bottom of the page
 ---
+<p align="center">
+<img src="/assets/img/ecsolab_logo4.png" width="340">
+</p>
+<!-- <br> -->
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the **Evolution of Cells, Symbionts, and Organelles** Lab website! We are located in the [Department of Biological Sciences](https://www.bio.purdue.edu/) at [Purdue University](https://www.purdue.edu/) (IN, USA). We are part of the [Ecology and Evolutionary Biology Research Area](https://www.bio.purdue.edu/ecology/) and the [Center for Plant Biology](https://ag.purdue.edu/cpb/). One of the central questions that drive our research is ‘**How does cellular complexity increase?**’ Our research thus focuses on **major transitions in cell evolution**. Two of the immediate interests of the lab are (1) the **origin of eukaryotes and their mitochondria**, and (2) the **origin and function of purple photosymbioses**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Some of the questions we are tackling include::
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- What was the nature of the mitochondrial ancestor? 
+- What was the genetic contribution of the mitochondrial ancestor to eukaryotes? 
+- How did mitochondria affect the physiology and evolution of eukaryotes? 
+- What are the mechanistic bases of purple photosymbioses? 
+- How have purple photosymbioses evolved?
+  
+See our research [here](https://ecsolab.com/research/) to learn more.
+
+## Opportunities
+
+I am always looking for highly motivated **students** to join the ECSO Lab! If you are passionate about symbiosis and cell evolution, please do get in touch to discuss possibilities. If you are a student that belongs to an underrepresented or minority group, consider applying to the [Graduate Diversity Visitation Program (GDVP)](https://www.purdue.edu/gradschool/diversity/programs/graduate-diversity-visitation-program/) for a chance to visit Purdue and our lab with all expenses covered for four days. You can reach me at samunozg{at}purdue[dot]edu

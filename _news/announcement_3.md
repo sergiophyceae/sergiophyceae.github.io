@@ -1,8 +1,10 @@
+<!--
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-10-21 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+My 5-min flash-talk at the NeLLi New Lineages of Life Symposium (DOE Joint Genome Institute) on the role of mitochondrial energetics in eukaryote evolution is now up on YouTube. Check it out <a href="https://youtu.be/WAPlYTqLK7U?t=3515">here
+-->
