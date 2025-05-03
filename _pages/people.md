@@ -78,6 +78,8 @@ B.Sc. in Biochemistry and Molecular Biology (2019-2023), Centre College, USA.
 
 ## Graduate Students
 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/EllaStone.jpg" width="160">
+
 **Ella Stone, BSc**  
 egstone{at}purdue[dot]edu
 
@@ -85,8 +87,7 @@ B.Sc. in Microbiology with Honors (2020-2024), Purdue University, USA.
 
 Ella is a microbiologist whose research focuses on the costs and benefits of phagocytosis in prokaryotic versus eukaryotic cells. She's very excited to learn a large variety of new techniques in the ECSO lab. Outside of the lab, she loves to rock climb, play board games, and chill with her two cats.
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/MatheusSanitaLima.jpg" width="160">
 
 **Matheus Sanita Lima, MSc**  
 msanital{at}purdue[dot]edu
