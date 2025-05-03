@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 - Schavemaker, P.E., **Muñoz-Gómez, S.A.** (2022). "The role of mitochondrial energetics in the origin and diversification of eukaryotes." <i>Nature Ecology and Evolution</i>.
-  - [Figshare](http://dx.doi.org/10.6084/m9.figshare.20324679)
+  - [Figshare]
 - **Muñoz-Gómez, S.A.**, Susko, E., Williamson, K., Eme, L., Slamovits, C. H., Moreira, D., López-García, P., Roger, A.J. (2021). "Site-and-branch-heterogeneous analyses of an expanded dataset favors mitochondria as sister to known Alphaproteobacteria." <i>Nature Ecology and Evolution</i>. 6:253–262.
   - [Figshare](https://doi.org/10.6084/m9.figshare.14355845.v2) \| [Mendeley Data](http://dx.doi.org/10.17632/dnbdzmjjkp.1)
 - **Muñoz-Gómez, S.A.**, Kreutz, M., Hess, S. (2021). "A microbial eukaryote with a unique combination of purple bacteria and green algae as endosymbionts." <i>Science Advances</i> 7:eabg4102.
