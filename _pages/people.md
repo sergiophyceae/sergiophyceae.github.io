@@ -87,6 +87,8 @@ B.Sc. in Microbiology with Honors (2020-2024), Purdue University, USA.
 
 Ella is a microbiologist whose research focuses on the costs and benefits of phagocytosis in prokaryotic versus eukaryotic cells. She's very excited to learn a large variety of new techniques in the ECSO lab. Outside of the lab, she loves to rock climb, play board games, and chill with her two cats.
 
+<p>&nbsp;</p>
+
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/MatheusSanitaLima.jpg" width="160">
 
 **Matheus Sanita Lima, MSc**  
@@ -95,6 +97,8 @@ msanital{at}purdue[dot]edu
 Matheus Sanita Lima is a 4th-year PhD candidate at the Smith Lab, Western University (London, Canada). He studies organelle genome evolution across the eukaryotic tree of life. He investigates how/whether the pervasive transcription of organelle noncoding DNA can be interpreted as an evolutionary force shaping organelle genomes. He is a Visiting Scholar at the ECSO Lab through the MITACS Globalink Research Award and the NSERC International Alliance (Catalyst grant modality). He is the host of WBESS - Western Biology Evolution Seminar Series.
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/generic_profile_pic.png" width="160">
+
+<p>&nbsp;</p>
 
 **You?**
 
