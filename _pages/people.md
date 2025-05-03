@@ -90,6 +90,7 @@ Matheus Sanita Lima is a 4th-year PhD candidate at the Smith Lab, Western Univer
 **You?**
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Undergraduate Students
 
@@ -124,3 +125,6 @@ Purdue University (2021 - Present)
 schwarkc{at}purdue[dot]edu
 
 B.Sc. in Biochemistry and Molecular Biology (2019-2023), Centre College, USA.
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
