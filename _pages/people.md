@@ -106,7 +106,6 @@ Ivy Tech Community College (2021 - 2022)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/oakley_2.jpg" width="160">
 
