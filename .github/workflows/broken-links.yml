@@ -63,6 +63,7 @@ jobs:
             --exclude="^https?://(www\.)?biorxiv\.org($|/.*)"
             --exclude="^https?://(www\.)?authors\.elsevier\.com($|/.*)"
             --exclude="^https?://(www\.)?doi\.org($|/.*)"
+            --exclude="^https?://(www\.)?scholar\.google\..*"
             --verbose
             --no-progress
             './**/*.md'
