@@ -114,6 +114,13 @@ oaharris{at}purdue[dot]edu
 
 Purdue University (2021 - Present)
 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/AllisonClark.png" width="160">
+
+**Allison Clark**  
+clark870{at}purdue[dot]edu
+
+Purdue University (2024 - Present)
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
