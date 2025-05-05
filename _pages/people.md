@@ -116,6 +116,7 @@ Purdue University (2021 - Present)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/AllisonClark.png" width="160">
 
