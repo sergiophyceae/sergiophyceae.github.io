@@ -116,6 +116,8 @@ Purdue University (2021 - Present)
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/AllisonClark.png" width="160">
 
+<p>&nbsp;</p>
+
 **Allison Clark**  
 clark870{at}purdue[dot]edu
 
