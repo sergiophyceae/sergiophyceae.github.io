@@ -86,7 +86,6 @@ msanital{at}purdue[dot]edu
 Matheus Sanita Lima is a 4th-year PhD candidate at the Smith Lab, Western University (London, Canada). He studies organelle genome evolution across the eukaryotic tree of life. He investigates how/whether the pervasive transcription of organelle noncoding DNA can be interpreted as an evolutionary force shaping organelle genomes. He is a Visiting Scholar at the ECSO Lab through the MITACS Globalink Research Award and the NSERC International Alliance (Catalyst grant modality). He is the host of WBESS - Western Biology Evolution Seminar Series.
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## Undergraduate Students
 
