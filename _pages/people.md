@@ -49,6 +49,16 @@ B.Sc. in Biological Sciences and Computer Engineering (2010-2017), University of
 
 Dongseok is an evolutionary biologist with a primary focus on unraveling the evolutionary questions of eukaryotic cells. His research encompasses a wide range of techniques, including genomics and various wet laboratory experiments, all aimed at addressing fundamental questions related to the origin of life and the evolution of complex cellular structures. See Dr. Kim’s CV [here](https://ecsolab.com/assets/pdf/cv_dongseokkim_2023-09-01.pdf).
 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/SandraGomezGutierrez.jpg" width="160">
+
+**Dr. Sandra Gomez Gutierrez**  
+sgomezgu{at}purdue[dot]edu
+
+Ph.D. in Plant Pathology – Concentration in Computation for Life Science (2019-2025), Purdue University, USA.
+B.Sc. in Agronomic Engineering (2013-2018), Universidad Nacional de Colombia, Colombia.
+
+Sandra is a plant pathologist and computational biologist with a primary interest in studying the evolutionary history of nascent genes and their implications for adaptation in microbial populations. At the ECSO Lab, she will investigate the energetic costs associated with the origin of new genes to better understand the short- and long-term evolutionary consequences of increased cellular complexity.
+
 <p>&nbsp;</p>
 
 ## Research Assistants
