@@ -54,8 +54,8 @@ Dongseok is an evolutionary biologist with a primary focus on unraveling the evo
 **Dr. Sandra Gomez Gutierrez**  
 sgomezgu{at}purdue[dot]edu
 
-Ph.D. in Plant Pathology – Concentration in Computation for Life Science (2019-2025), Purdue University, USA.
-B.Sc. in Agronomic Engineering (2013-2018), Universidad Nacional de Colombia, Colombia.
+Ph.D. in Plant Pathology – Concentration in Computation for Life Science (2019-2025), Purdue University, USA.  
+B.Sc. in Agronomic Engineering (2013-2018), Universidad Nacional de Colombia, Colombia.  
 
 Sandra is a plant pathologist and computational biologist with a primary interest in studying the evolutionary history of nascent genes and their implications for adaptation in microbial populations. At the ECSO Lab, she will investigate the energetic costs associated with the origin of new genes to better understand the short- and long-term evolutionary consequences of increased cellular complexity.
 
