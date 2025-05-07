@@ -62,7 +62,6 @@ Sandra is a plant pathologist and computational biologist with a primary interes
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/MeganSorensen.jpg" width="160">
 
 **Dr. Megan Sorensen**  
-sgomezgu{at}purdue[dot]edu
 
 EMBO & MSCA Postdoctoral Fellow (2022-2025) Heinrich-Heine University, Germany.
 Postdoctoral Researcher (2020-2022) Stockholm & Uppsala University, Sweden.
