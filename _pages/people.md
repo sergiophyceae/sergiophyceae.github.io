@@ -63,11 +63,11 @@ Sandra is a plant pathologist and computational biologist with a primary interes
 
 **Dr. Megan Sorensen**  
 
-EMBO & MSCA Postdoctoral Fellow (2022-2025) Heinrich-Heine University, Germany.
-Postdoctoral Researcher (2020-2022) Stockholm & Uppsala University, Sweden.
-PhD (2015-2020) University of Sheffield, UK.
-MSc by Research (2014-2015), University of York, UK.
-BA Natural Sciences (2010-2013) University of Cambridge, UK.
+EMBO & MSCA Postdoctoral Fellow (2022-2025) Heinrich-Heine University, Germany.  
+Postdoctoral Researcher (2020-2022) Stockholm & Uppsala University, Sweden.  
+PhD (2015-2020) University of Sheffield, UK.  
+MSc by Research (2014-2015), University of York, UK.  
+BA Natural Sciences (2010-2013) University of Cambridge, UK.  
 
 Sandra is a plant pathologist and computational biologist with a primary interest in studying the evolutionary history of nascent genes and their implications for adaptation in microbial populations. At the ECSO Lab, she will investigate the energetic costs associated with the origin of new genes to better understand the short- and long-term evolutionary consequences of increased cellular complexity.
 
