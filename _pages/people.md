@@ -69,7 +69,7 @@ PhD (2015-2020) University of Sheffield, UK.
 MSc by Research (2014-2015), University of York, UK.  
 BA Natural Sciences (2010-2013) University of Cambridge, UK.  
 
-Sandra is a plant pathologist and computational biologist with a primary interest in studying the evolutionary history of nascent genes and their implications for adaptation in microbial populations. At the ECSO Lab, she will investigate the energetic costs associated with the origin of new genes to better understand the short- and long-term evolutionary consequences of increased cellular complexity.
+Megan is an evolutionary biologist whose research interests are primarily focused on the evolution of photosynthetic endosymbioses and organelles. Her research utilises protist systems that can provide exciting insights into these evolutionary transitions.  
 
 <p>&nbsp;</p>
 
