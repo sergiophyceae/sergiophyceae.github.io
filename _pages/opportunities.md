@@ -50,5 +50,6 @@ Whether you are an undergraduate student, graduate student, or postdoctoral rese
 - [Systems Fellows Program](https://www.purdue.edu/collaboratory/programs/fellows/learn-more/index.html)
 - [Graduate Bridge Program](https://www.purdue.edu/gradschool/diversity/programs/bridge/)
 - [Summer Research Opportunities Program (SROP) (**For incoming PhD students**)](https://www.purdue.edu/academics/ogsps/diversity/programs/summer-research-opportunities-program/index.php)
+- [Summer Undergraduate Research Fellowship (SURF)](https://engineering.purdue.edu/Engr/Research/EURO/students/about-SURF)
 - [Purdue Postdoc Travel Award](https://www.purdue.edu/gradschool/postdoctoral-studies/resources/career-development.php)
 - [Purdue University Libraries Open Access Publishing Fund](https://www.lib.purdue.edu/openaccess/fund)
