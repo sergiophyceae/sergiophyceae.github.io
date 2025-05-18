@@ -51,6 +51,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
+        },{id: "nav-photos",
+          title: "Photos",
+          description: "Pictures of Purdue University and Indiana",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/photos/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
