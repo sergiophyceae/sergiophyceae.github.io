@@ -1,7 +1,7 @@
 <div class="container">
   <div class="row">
     <div class="col">
-      <img src="image1.jpg" class="img-fluid" alt="Image 1">
+      <img src="/assets/img/springsunset2.jpg" class="img-fluid" alt="Image 1">
     </div>
     <div class="col-6">
       <img src="image2.jpg" class="img-fluid" alt="Image 2">
