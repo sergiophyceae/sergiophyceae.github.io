@@ -1,3 +1,14 @@
+---
+layout: page
+title: Photos
+permalink: /photos/
+description: Pictures of Purdue University and Indiana
+nav: true
+nav_order: 6
+display_categories: [work, fun]
+horizontal: false
+---
+
 <div class="container">
   <div class="row">
     <div class="col">
