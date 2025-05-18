@@ -15,10 +15,10 @@ horizontal: false
       <img src="/assets/img/springsunset2.jpg" class="img-fluid" alt="Image 1">
     </div>
     <div class="col-6">
-      <img src="/assets/img/springsunset2.jpg" class="img-fluid" alt="Image 2">
+      <img src="/assets/img/celerybog1.jpg" class="img-fluid" alt="Image 2">
     </div>
     <div class="col">
-      <img src="/assets/img/springsunset2.jpg" class="img-fluid" alt="Image 3">
+      <img src="/assets/img/celerybog2.jpg" class="img-fluid" alt="Image 3">
     </div>
   </div>
   <div class="row">
