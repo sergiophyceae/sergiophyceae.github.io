@@ -12,7 +12,7 @@ horizontal: false
 <div class="container">
   <div class="row">
     <div class="col">
-      <img src="/assets/img/springsunset2.jpg" class="img-fluid" alt="Image 1">
+      <img src="/assets/img/grouppic1.jpg" class="img-fluid" alt="Image 1">
     </div>
     <div class="col-6">
       <img src="/assets/img/celerybog1.jpg" class="img-fluid" alt="Image 2">
