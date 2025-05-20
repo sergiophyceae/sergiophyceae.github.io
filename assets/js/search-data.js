@@ -53,7 +53,7 @@ ninja.data = [{
           },
         },{id: "nav-photos",
           title: "Photos",
-          description: "Pictures of Purdue University and Indiana",
+          description: "ECSO Lab pictures",
           section: "Navigation",
           handler: () => {
             window.location.href = "/photos/";
