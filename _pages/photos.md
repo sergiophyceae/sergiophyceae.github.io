@@ -11,8 +11,8 @@ horizontal: false
 
 <style>
   .photo-container img {
-    width: 500px;
-    height: 400px;
+    width: 450px;
+    height: 350px;
     object-fit: cover;
   }
   .photo-container figure {
