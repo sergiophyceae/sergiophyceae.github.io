@@ -14,19 +14,19 @@ horizontal: false
     <div class="col-4">
       <figure>
         <img src="/assets/img/grouppic3_2.jpg" class="img-fluid" alt="Image 1">
-        <figcaption class="text-center">Group Picture 1</figcaption>
+        <figcaption class="text-center">April 2025</figcaption>
       </figure>
     </div>
     <div class="col-4">
       <figure>
         <img src="/assets/img/grouppic2_2.jpg" class="img-fluid" alt="Image 2">
-        <figcaption class="text-center">Group Picture 2</figcaption>
+        <figcaption class="text-center">September 2024</figcaption>
       </figure>
     </div>
     <div class="col-4">
       <figure>
         <img src="/assets/img/grouppic1_2.jpg" class="img-fluid" alt="Image 3">
-        <figcaption class="text-center">Group Picture 3</figcaption>
+        <figcaption class="text-center">January 2024</figcaption>
       </figure>
     </div>
   </div>
