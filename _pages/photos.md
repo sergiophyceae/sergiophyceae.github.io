@@ -24,20 +24,20 @@ horizontal: false
   <div class="row justify-content-center">
     <div class="col-auto">
       <figure>
-        <img src="/assets/img/grouppic1_2.jpg" alt="Image 1">
-        <figcaption>Group Picture 1</figcaption>
+        <img src="/assets/img/grouppic3_2.jpg" alt="Image 1">
+        <figcaption>April 2025</figcaption>
       </figure>
     </div>
     <div class="col-auto">
       <figure>
-        <img src="/assets/img/grouppic3_2.jpg" alt="Image 2">
-        <figcaption>Group Picture 2</figcaption>
+        <img src="/assets/img/grouppic2_2.jpg" alt="Image 2">
+        <figcaption>September 2024</figcaption>
       </figure>
     </div>
     <div class="col-auto">
       <figure>
-        <img src="/assets/img/grouppic2_2.jpg" alt="Image 3">
-        <figcaption>Group Picture 3</figcaption>
+        <img src="/assets/img/grouppic1_2.jpg" alt="Image 3">
+        <figcaption>January 2024</figcaption>
       </figure>
     </div>
   </div>
