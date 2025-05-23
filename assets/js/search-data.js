@@ -44,19 +44,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/data/";
           },
-        },{id: "nav-contact",
-          title: "Contact",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/contact/";
-          },
         },{id: "nav-photos",
           title: "Photos",
           description: "ECSO Lab pictures",
           section: "Navigation",
           handler: () => {
             window.location.href = "/photos/";
+          },
+        },{id: "nav-contact",
+          title: "Contact",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contact/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
