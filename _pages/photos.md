@@ -4,7 +4,7 @@ title: Photos
 permalink: /photos/
 description: ECSO Lab pictures
 nav: true
-nav_order: 6
+nav_order: 5
 display_categories: [work, fun]
 horizontal: false
 ---
