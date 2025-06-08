@@ -22,6 +22,13 @@ horizontal: false
 
 <div class="container photo-container">
   <div class="row justify-content-center">
+      </div>
+      <div class="col-auto">
+      <figure>
+        <img src="/assets/img/grouppic4.jpg" alt="Image 4">
+        <figcaption>June 2025 ft. Prof. Dr. Holly Moeller</figcaption>
+      </figure>
+    </div>
     <div class="col-auto">
       <figure>
         <img src="/assets/img/grouppic3_2.jpg" alt="Image 1">
@@ -39,6 +46,5 @@ horizontal: false
         <img src="/assets/img/grouppic1_2.jpg" alt="Image 3">
         <figcaption>January 2024</figcaption>
       </figure>
-    </div>
   </div>
 </div>
