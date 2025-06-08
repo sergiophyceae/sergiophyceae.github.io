@@ -35,6 +35,7 @@ Whether you are an undergraduate student, graduate student, or postdoctoral rese
 ## Graduate Student Fellowships
 
 - [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/)
+- [Simons Graduate Fellowships in Ecology and Evolution] (https://www.simonsfoundation.org/grant/simons-graduate-fellowships-in-ecology-and-evolution/)
 
 ## Small grants
 
