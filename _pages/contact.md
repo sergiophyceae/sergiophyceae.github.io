@@ -21,7 +21,7 @@ Sergio A. Muñoz-Gómez
  West Lafayette, IN 47907-2054  
  Purdue University
 
-Shipping address:  
+**Shipping address**:  
  915 Mitch Daniels Blvd LILY G-203  
  Purdue University  
  West Lafayette, IN 47907  
