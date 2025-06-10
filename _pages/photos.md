@@ -32,7 +32,7 @@ horizontal: false
     <div class="col-auto">
       <figure>
         <img src="/assets/img/grouppic3_2.jpg" alt="Image 1">
-        <figcaption>April 2025 ft. Dr. Julia van Etten</figcaption>
+        <figcaption>April 2025 ft. <a href="https://www.couchmicroscopy.com/"> Dr. Julia van Etten</a></figcaption>
       </figure>
     </div>
     <div class="col-auto">
