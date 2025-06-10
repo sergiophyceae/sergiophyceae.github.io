@@ -26,7 +26,7 @@ horizontal: false
       <div class="col-auto">
       <figure>
         <img src="/assets/img/grouppic4.jpg" alt="Image 4">
-        <figcaption>June 2025 ft. Prof. Dr. Holly Moeller</figcaption>
+        <figcaption>June 2025 ft. <a href="https://moellerlab.org/" target="_blank"> Prof. Dr. Holly Moeller</a></figcaption>
       </figure>
     </div>
     <div class="col-auto">
