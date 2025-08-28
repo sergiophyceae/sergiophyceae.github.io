@@ -132,6 +132,16 @@ Purdue University (2024 - Present)
 
 ## Former Lab Members
 
+**Penelope Vu, MSc**  
+vu22{at}purdue[dot]edu
+
+MSc in Botany and Plant Pathology (2019-2022), Purdue University, USA.  
+BSc in Crop Sciences with Honors (2014-2019), Vietnam National University of Agriculture, Vietnam.  
+YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, USA.  
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/konrad_pic_new.jpg" width="160">
 
 **Konrad Schwartz**  
@@ -140,13 +150,6 @@ schwarkc{at}purdue[dot]edu
 B.Sc. in Biochemistry and Molecular Biology (2019-2023), Centre College, USA.
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/penelope_2.jpg" width="160">
-
-**Penelope Vu, MSc**  
-vu22{at}purdue[dot]edu
-
-MSc in Botany and Plant Pathology (2019-2022), Purdue University, USA.  
-BSc in Crop Sciences with Honors (2014-2019), Vietnam National University of Agriculture, Vietnam.  
-YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, USA.  
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
