@@ -14,11 +14,6 @@ I am not currently looking for graduate students.
 
 If you are interested in joining the lab as a graduate student or postdoc and have developed an idea for a project, I am happy to work with you on putting together applications for funding opportunities (see below).
 
-1. **PhD Student**. Project: "**The energetic costs of new genes and cellular complexity.**"
-2. **PhD Student**. Project: "**The physiology and metabolism of common and rare photosymbiotic associations.**"
-
-To apply, please send a **CV** and **1-2-page cover letter** to samunozg{at}purdue[dot]edu
-
 ---
 
 Whether you are an undergraduate student, graduate student, or postdoctoral researcher, there are many opporunities to fund your research, training, and career. Take advantage of them! I am happy to work with you on putting together applications for these funding opportunities.
