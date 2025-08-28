@@ -73,20 +73,6 @@ Megan is an evolutionary biologist whose research interests are primarily focuse
 
 <p>&nbsp;</p>
 
-## Research Assistants
-
-<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/penelope_2.jpg" width="160">
-
-**Penelope Vu, MSc**  
-vu22{at}purdue[dot]edu
-
-MSc in Botany and Plant Pathology (2019-2022), Purdue University, USA.  
-BSc in Crop Sciences with Honors (2014-2019), Vietnam National University of Agriculture, Vietnam.  
-YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, USA.  
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 ## Graduate Students
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/EllaStone.jpg" width="160">
@@ -152,6 +138,15 @@ Purdue University (2024 - Present)
 schwarkc{at}purdue[dot]edu
 
 B.Sc. in Biochemistry and Molecular Biology (2019-2023), Centre College, USA.
+
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/penelope_2.jpg" width="160">
+
+**Penelope Vu, MSc**  
+vu22{at}purdue[dot]edu
+
+MSc in Botany and Plant Pathology (2019-2022), Purdue University, USA.  
+BSc in Crop Sciences with Honors (2014-2019), Vietnam National University of Agriculture, Vietnam.  
+YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, USA.  
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
