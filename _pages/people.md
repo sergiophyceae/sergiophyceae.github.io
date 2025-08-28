@@ -127,8 +127,6 @@ Purdue University (2024 - Present)
 Undergraduate Student  
 oaharris{at}purdue[dot]edu
 
-Purdue University (2021 - 2025)
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -139,10 +137,6 @@ Purdue University (2021 - 2025)
 Research Technician  
 vu22{at}purdue[dot]edu
 
-MSc in Botany and Plant Pathology (2019-2022), Purdue University, USA.  
-BSc in Crop Sciences with Honors (2014-2019), Vietnam National University of Agriculture, Vietnam.  
-YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, USA.  
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -151,8 +145,6 @@ YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, 
 **Konrad Schwartz, B.Sc.**  
 Research Technician  
 schwarkc{at}purdue[dot]edu
-
-B.Sc. in Biochemistry and Molecular Biology (2019-2023), Centre College, USA.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
