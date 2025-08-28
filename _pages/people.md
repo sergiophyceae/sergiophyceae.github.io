@@ -130,6 +130,7 @@ oaharris{at}purdue[dot]edu
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/penelope_2.jpg" width="160">
 
@@ -140,6 +141,7 @@ vu22{at}purdue[dot]edu
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/konrad_pic_new.jpg" width="160">
 
@@ -147,6 +149,7 @@ vu22{at}purdue[dot]edu
 Research Technician  
 schwarkc{at}purdue[dot]edu
 
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
