@@ -10,7 +10,7 @@ horizontal: false
 
 ## Open Positions
 
-I am not currently looking for graduate students. 
+There are currently **no funded positions** available in the lab. 
 
 If you are interested in joining the lab as a graduate student or postdoc and have developed an idea for a project, I am happy to work with you on putting together applications for funding opportunities (see below).
 
