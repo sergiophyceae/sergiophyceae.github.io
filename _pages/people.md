@@ -132,6 +132,8 @@ Purdue University (2024 - Present)
 
 ## Former Lab Members
 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/penelope_2.jpg" width="160">
+
 **Penelope Vu, MSc**  
 vu22{at}purdue[dot]edu
 
@@ -148,8 +150,6 @@ YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, 
 schwarkc{at}purdue[dot]edu
 
 B.Sc. in Biochemistry and Molecular Biology (2019-2023), Centre College, USA.
-
-<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/penelope_2.jpg" width="160">
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
