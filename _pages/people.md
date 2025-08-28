@@ -95,8 +95,6 @@ Matheus Sanita Lima is a 4th-year PhD candidate at the Smith Lab, Western Univer
 
 <p>&nbsp;</p>
 
-## Undergraduate Students
-
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/Betsy_2.jpg" width="160">
 
 **Betsy Varghese**  
@@ -107,6 +105,8 @@ Ivy Tech Community College (2021 - 2022)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+## Undergraduate Students
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/AllisonClark.png" width="160">
 
