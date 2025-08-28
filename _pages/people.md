@@ -108,17 +108,6 @@ Ivy Tech Community College (2021 - 2022)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/oakley_2.jpg" width="160">
-
-**Oakley Harrison**  
-oaharris{at}purdue[dot]edu
-
-Purdue University (2021 - Present)
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/AllisonClark.png" width="160">
 
 **Allison Clark**  
@@ -131,6 +120,17 @@ Purdue University (2024 - Present)
 <p>&nbsp;</p>
 
 ## Former Lab Members
+
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/oakley_2.jpg" width="160">
+
+**Oakley Harrison**  
+oaharris{at}purdue[dot]edu
+
+Purdue University (2021 - 2025)
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/penelope_2.jpg" width="160">
 
