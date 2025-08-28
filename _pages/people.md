@@ -123,7 +123,7 @@ Purdue University (2024 - Present)
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/oakley_2.jpg" width="160">
 
-**Oakley Harrison**  
+**Oakley Harrison, B.Sc.**  
 Undergraduate Student  
 oaharris{at}purdue[dot]edu
 
@@ -135,7 +135,7 @@ Purdue University (2021 - 2025)
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/penelope_2.jpg" width="160">
 
-**Penelope Vu, MSc**  
+**Penelope Vu, M.Sc.**  
 Research Technician  
 vu22{at}purdue[dot]edu
 
@@ -148,7 +148,7 @@ YSEALI Academic Fellow in Environmental Issues (2017), University of Hawai’i, 
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/konrad_pic_new.jpg" width="160">
 
-**Konrad Schwartz**  
+**Konrad Schwartz, B.Sc.**  
 Research Technician  
 schwarkc{at}purdue[dot]edu
 
