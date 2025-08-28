@@ -124,7 +124,7 @@ Purdue University (2024 - Present)
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/oakley_2.jpg" width="160">
 
 **Oakley Harrison**  
-Undergraduate Students  
+Undergraduate Student  
 oaharris{at}purdue[dot]edu
 
 Purdue University (2021 - 2025)
@@ -135,7 +135,7 @@ Purdue University (2021 - 2025)
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/penelope_2.jpg" width="160">
 
-**Penelope Vu, MSc** 
+**Penelope Vu, MSc**  
 Research Technician  
 vu22{at}purdue[dot]edu
 
