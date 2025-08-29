@@ -115,7 +115,7 @@ Purdue University (2024 - Present)
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/MatheusSanitaLima.jpg" width="160">
 
 **Matheus Sanita Lima, M.Sc.**  
-Visiting Ph.D. Student
+Visiting Ph.D. Student  
 msanital{at}purdue[dot]edu
 
 <p>&nbsp;</p>
