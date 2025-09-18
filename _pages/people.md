@@ -94,14 +94,10 @@ bvarghe{at}purdue[dot]edu
 Purdue University (2023 - Present)  
 Ivy Tech Community College (2021 - 2022)
 
-<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/Joey.jpg" width="160">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/Joey.jpg" width="160">
 
 **Joey Jen, M.Sc.**  
 jen10{at}purdue[dot]edu
