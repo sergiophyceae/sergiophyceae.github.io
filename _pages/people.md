@@ -94,6 +94,16 @@ bvarghe{at}purdue[dot]edu
 Purdue University (2023 - Present)  
 Ivy Tech Community College (2021 - 2022)
 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/Joey.jpg" width="160">
+
+**Joey Jen, M.Sc.**  
+jen10{at}purdue[dot]edu
+
+B.Sc. in Life Science (2014-2018), National Yang-Ming University, Taiwan
+M.Sc. in Molecular and Cellular Biology (2018-2021), National Taiwan University, Taiwan
+
+Our life evolves like species evolve across the landscape of fitness. There are life events that changed my trajectory, like mutations that force species to adapt. After several years of exploration, I am now at Purdue - come chat with me if you are interested in my research interests.
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -105,6 +115,15 @@ Ivy Tech Community College (2021 - 2022)
 clark870{at}purdue[dot]edu
 
 Purdue University (2024 - Present)
+
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/Sebastian.png" width="160">
+
+**Sebastian Correa**  
+clark870{at}purdue[dot]edu
+
+B.Sc. in Biology (2022–2026), Universidad EAFIT, Colombia
+
+Sebastian is a Biology undergraduate working as a Research Intern at the ECSO Lab. His research explores microbial ecology, particularly how extremophilic microorganisms adapt under nutrient-limited conditions. At ECSO, he studies mitochondrial proteome allocation in osmotrophic eukaryotes. He aims to deepen our fundamental understanding of cell evolution while also contributing toward solutions for pressing human health challenges.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
