@@ -59,20 +59,6 @@ B.Sc. in Agronomic Engineering (2013-2018), Universidad Nacional de Colombia, Co
 
 Sandra is a plant pathologist and computational biologist with a primary interest in studying the evolutionary history of nascent genes and their implications for adaptation in microbial populations. At the ECSO Lab, she will investigate the energetic costs associated with the origin of new genes to better understand the short- and long-term evolutionary consequences of increased cellular complexity.  
 
-<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/MeganSorensen.jpg" width="160">
-
-**Dr. Megan Sorensen**  
-
-EMBO & MSCA Postdoctoral Fellow (2022-2025) Heinrich-Heine University, Germany.  
-Postdoctoral Researcher (2020-2022) Stockholm & Uppsala University, Sweden.  
-PhD (2015-2020) University of Sheffield, UK.  
-MSc by Research (2014-2015), University of York, UK.  
-BA Natural Sciences (2010-2013) University of Cambridge, UK.  
-
-Megan is an evolutionary biologist whose research interests are primarily focused on the evolution of photosynthetic endosymbioses and organelles. Her research utilises protist systems that can provide exciting insights into these evolutionary transitions.  
-
-<p>&nbsp;</p>
-
 ## Graduate Students
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/EllaStone.jpg" width="160">
@@ -134,6 +120,16 @@ Sebastian is a Biology undergraduate working as a Research Intern at the ECSO La
 <p>&nbsp;</p>
 
 ## Former Lab Members
+
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/MeganSorensen.jpg" width="160">
+
+**Dr. Megan Sorensen**  
+Postdoctoral Researcher
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/MatheusSanitaLima.jpg" width="160">
 
