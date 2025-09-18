@@ -98,6 +98,7 @@ Ivy Tech Community College (2021 - 2022)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 **Joey Jen, M.Sc.**  
 jen10{at}purdue[dot]edu
@@ -131,8 +132,6 @@ B.Sc. in Biology (2022–2026), Universidad EAFIT, Colombia
 
 Sebastian is a Biology undergraduate working as a Research Intern at the ECSO Lab. His research explores microbial ecology, particularly how extremophilic microorganisms adapt under nutrient-limited conditions. At ECSO, he studies mitochondrial proteome allocation in osmotrophic eukaryotes. He aims to deepen our fundamental understanding of cell evolution while also contributing toward solutions for pressing human health challenges.
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ## Former Lab Members
