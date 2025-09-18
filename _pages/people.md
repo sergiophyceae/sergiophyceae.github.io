@@ -99,6 +99,7 @@ Ivy Tech Community College (2021 - 2022)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 **Joey Jen, M.Sc.**  
 jen10{at}purdue[dot]edu
