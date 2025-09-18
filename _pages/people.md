@@ -127,7 +127,7 @@ Purdue University (2024 - Present)
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/Sebastian.jpg" width="160">
 
 **Sebastian Correa**  
-clark870{at}purdue[dot]edu
+scorreag{at}purdue[dot]edu
 
 B.Sc. in Biology (2022–2026), Universidad EAFIT, Colombia
 
