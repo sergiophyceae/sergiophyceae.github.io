@@ -25,7 +25,12 @@ module ExternalPosts
     def fetch_from_rss(site, src)
       xml = HTTParty.get(src['rss_url']).body
       return if xml.nil?
-      feed = Feedjira.parse(xml)
+      begin
+        feed = Feedjira.parse(xml)
+        rescue Feedjira::NoParserAvailable
+        Jekyll.logger.warn "ExternalPosts:", "No valid parser for RSS at #{src['rss_url']}"
+        return
+      end
       process_entries(site, src, feed.entries)
     end
 
