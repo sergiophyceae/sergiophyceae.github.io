@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-people",
-          title: "People",
-          description: "A list of current and past members of the ECSO Lab.",
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-opportunities",
           title: "Opportunities",
