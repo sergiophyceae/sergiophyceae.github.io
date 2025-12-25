@@ -10,5 +10,8 @@ horizontal: false
 ---
 
 ## BIOL39500 - Cell Diversity and Evolution
-<p>&nbsp;</p>
+
 <img align="center" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/BIOL395Poster_3-01.png" width="600">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
