@@ -108,6 +108,8 @@ Purdue University (2024 - Present)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+<img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/AlexanderRaber.jpg" width="160">
+
 **Alexander Whitaker Raber**  
 rabera{at}purdue[dot]edu
 
