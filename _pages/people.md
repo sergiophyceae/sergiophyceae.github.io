@@ -108,6 +108,14 @@ Purdue University (2024 - Present)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+**Alexander Whitaker Raber**  
+rabera{at}purdue[dot]edu
+
+B.Sc. in Ecology, Evolution, and Environmental Biology (2024 - Present), Purdue University, USA
+B. A. in Philosophy (2024 - Present), Purdue University, USA
+
+Alexander is an Evolutionary Biology and Philosophy undergraduate with interests in major transitions and evolutionary theory. His research in the ECSO lab involves testing the costs of evolutionary developments and inspecting the evolutionary assumptions of eukaryogenesis. 
+
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/Sebastian.jpg" width="160">
 
 **Sebastian Correa**  
