@@ -119,6 +119,7 @@ B. A. in Philosophy (2024 - Present), Purdue University, USA
 Alexander is an Evolutionary Biology and Philosophy undergraduate with interests in major transitions and evolutionary theory. His research in the ECSO lab involves testing the costs of evolutionary developments and inspecting the evolutionary assumptions of eukaryogenesis. 
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <img align="left" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/img/Sebastian.jpg" width="160">
 
