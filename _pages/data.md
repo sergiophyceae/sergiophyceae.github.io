@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- **Muñoz-Gómez, S.A.**, Sørensen, M.E.S., Shazib, S.U.A., Shin, M.K., Bauer, T., Kreutz, M., Hess, S. (2026). "Evolutionary assembly of a unique purple-green photosymbiosis revealed by expanded ciliate diversity." <i>bioRxiv</i>
+- **Muñoz-Gómez, S.A.**, Sørensen, M.E.S., Shazib, S.U.A., Shin, M.K., Bauer, T., Kreutz, M., Hess, S. (2026). "Evolutionary assembly of a unique purple-green photosymbiosis revealed by expanded ciliate diversity." <i>bioRxiv.</i>
   - [Figshare](https://doi.org/10.6084/m9.figshare.31951782)
 - Schavemaker, P.E., **Muñoz-Gómez, S.A.** (2022). "The role of mitochondrial energetics in the origin and diversification of eukaryotes." <i>Nature Ecology and Evolution</i>.
   - [Figshare](https://doi.org/10.6084/m9.figshare.20324679)
