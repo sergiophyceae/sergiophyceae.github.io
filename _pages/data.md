@@ -9,8 +9,10 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+- **Muñoz-Gómez, S.A.**, Sørensen, M.E.S., Shazib, S.U.A., Shin, M.K., Bauer, T., Kreutz, M., Hess, S. (2026). "Evolutionary assembly of a unique purple-green photosymbiosis revealed by expanded ciliate diversity." <i>bioRxiv</i>
+  - [Figshare](https://doi.org/10.6084/m9.figshare.31951782)
 - Schavemaker, P.E., **Muñoz-Gómez, S.A.** (2022). "The role of mitochondrial energetics in the origin and diversification of eukaryotes." <i>Nature Ecology and Evolution</i>.
-  - [Figshare]
+  - [Figshare](https://doi.org/10.6084/m9.figshare.20324679)
 - **Muñoz-Gómez, S.A.**, Susko, E., Williamson, K., Eme, L., Slamovits, C. H., Moreira, D., López-García, P., Roger, A.J. (2021). "Site-and-branch-heterogeneous analyses of an expanded dataset favors mitochondria as sister to known Alphaproteobacteria." <i>Nature Ecology and Evolution</i>. 6:253–262.
   - [Figshare](https://doi.org/10.6084/m9.figshare.14355845.v2) \| [Mendeley Data](http://dx.doi.org/10.17632/dnbdzmjjkp.1)
 - **Muñoz-Gómez, S.A.**, Kreutz, M., Hess, S. (2021). "A microbial eukaryote with a unique combination of purple bacteria and green algae as endosymbionts." <i>Science Advances</i> 7:eabg4102.
